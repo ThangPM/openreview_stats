@@ -1,6 +1,7 @@
-/Users/thangpm/opt/anaconda3/envs/openreview/bin/python /Users/thangpm/U.S.Life/Auburn/Ph.D./Projects/openreview/openreview_stats.py
-Extracting data for page 1...
-100%|██████████| 50/50 [02:34<00:00,  3.09s/it]
+Extracting review scores for conference neurips2022...
+Extracting at page 1...
+100%|██████████| 1/1 [00:03<00:00,  3.15s/it]
+100%|██████████| 50/50 [02:32<00:00,  3.05s/it]
 Title:	PiC: A Phrase-in-Context Dataset for Phrase Understanding and Semantic Search	URL:	https://openreview.net/forum?id=NETsAaKwzMp	Review_scores	[6, 5, 7, 5, 6]	Average:	5.8
 Title:	FlowchartQA: The First Large-Scale Benchmark for Reasoning over Flowcharts	URL:	https://openreview.net/forum?id=Z_0_pTPvI4W	Review_scores	[5, 6, 6, 5, 7]	Average:	5.8
 Title:	Does Action Recognition Need Pose Estimation?	URL:	https://openreview.net/forum?id=PIb7WU8jQQH	Review_scores	[6, 2, 3, 5, 7, 4]	Average:	4.5
@@ -33,10 +34,10 @@ Title:	SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Ve
 Title:	AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection	URL:	https://openreview.net/forum?id=rbrouCKPiej	Review_scores	[7, 4, 7, 6, 6]	Average:	6
 Title:	FLAIR: Federated Learning Annotated Image Repository	URL:	https://openreview.net/forum?id=1kIZiRelqFt	Review_scores	[8, 6, 7, 8, 7]	Average:	7.2
 Title:	In Search of Out-of-Distribution Generalization on Graphs	URL:	https://openreview.net/forum?id=DzJQ3r7EnTQ	Review_scores	[4, 5, 4, 5, 5, 6]	Average:	4.833333333333333
-Title:	Towards Understanding How Machines Can Learn Causal Overhypotheses	URL:	https://openreview.net/forum?id=AnXBo3P8y8z	Review_scores	[4, 5, 4, 4, 3, 4]	Average:	4
+Title:	Towards Understanding How Machines Can Learn Causal Overhypotheses	URL:	https://openreview.net/forum?id=AnXBo3P8y8z	Review_scores	[4, 5, 4, 10, 4, 7]	Average:	5.666666666666667
 Title:	FETA: Towards Specializing Foundational Models for Expert Task Applications	URL:	https://openreview.net/forum?id=srHMs3mPD5y	Review_scores	[4, 7, 4, 4, 8]	Average:	5.4
 Title:	Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object  Pose Estimators	URL:	https://openreview.net/forum?id=Y6qh5KF0Y_v	Review_scores	[4, 6, 7, 7, 6, 5]	Average:	5.833333333333333
-Title:	The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World	URL:	https://openreview.net/forum?id=qnfYsave0U4	Review_scores	[7, 7, 4, 4, 3, 3]	Average:	4.666666666666667
+Title:	The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World	URL:	https://openreview.net/forum?id=qnfYsave0U4	Review_scores	[7, 7, 10, 6, 6, 6]	Average:	7
 Title:	The Canadian Cropland Dataset: A New Land Cover Dataset for Multitemporal Deep Learning Classification in Agriculture	URL:	https://openreview.net/forum?id=bBgcnvwv41l	Review_scores	[5, 4, 5, 3, 3]	Average:	4
 Title:	Why do tree-based models still outperform deep learning on tabular data?	URL:	https://openreview.net/forum?id=Fp7__phQszn	Review_scores	[6, 8, 7, 7, 6, 5]	Average:	6.5
 Title:	PsyMo: A Dataset for Estimating of Self-Reported Psychometrics from Walking Patterns	URL:	https://openreview.net/forum?id=mYjd0GK4lXh	Review_scores	[6, 5, 5, 5, 2, 7]	Average:	5
@@ -51,8 +52,8 @@ Title:	Understanding Aesthetics with Language: A Photo Critique Dataset for Aest
 Title:	TweetDIS: A Large Twitter Dataset for Natural Disasters Built using Weak Supervision	URL:	https://openreview.net/forum?id=6iRDhV3yrmo	Review_scores	[3, 4, 4, 6, 6, 5]	Average:	4.666666666666667
 Title:	ETAB: A Benchmark Suite for Visual Representation Learning in Echocardiography	URL:	https://openreview.net/forum?id=b0VDQiNLPy9	Review_scores	[5, 4, 5, 8, 4]	Average:	5.2
 Title:	IDEO: Large Scale Egocentric 3D Object Dataset and Benchmark Challenges	URL:	https://openreview.net/forum?id=C_QwhQq4r4x	Review_scores	[5, 7, 6, 6, 6, 6]	Average:	6
-Extracting data for page 2...
-100%|██████████| 50/50 [02:35<00:00,  3.12s/it]
+Extracting at page 2...
+100%|██████████| 50/50 [02:32<00:00,  3.05s/it]
 Title:	Homekit2020: A Time Series Classification Benchmark for Influenza Prediction Using Wearable Devices	URL:	https://openreview.net/forum?id=q5IBAUCsQQ	Review_scores	[4, 6, 4, 8, 5, 7, 6]	Average:	5.714285714285714
 Title:	BRI3L: A brightness illusion image dataset for identification and localization of regions of illusory perception	URL:	https://openreview.net/forum?id=uufDJhmter	Review_scores	[5, 6, 6, 5, 3]	Average:	5
 Title:	A Framework for Large Scale Synthetic Graph Dataset Generation	URL:	https://openreview.net/forum?id=ueUXUjlXAMf	Review_scores	[3, 6, 3, 8, 3, 4]	Average:	4.5
@@ -66,7 +67,7 @@ Title:	End-to-End Multimodal Fact-Checking and Explanation Generation: A Challen
 Title:	Look, Radiate, and Learn: Self-supervised Localisation via Radio-Visual Correspondence	URL:	https://openreview.net/forum?id=pciyt0TM31V	Review_scores	[7, 4, 5, 4, 5]	Average:	5
 Title:	PeRFception: Perception using Radiance Fields	URL:	https://openreview.net/forum?id=MzaPEKHv-0J	Review_scores	[7, 7, 5, 5, 5, 7]	Average:	6
 Title:	Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world	URL:	https://openreview.net/forum?id=DcfsR89KUa	Review_scores	[5, 8, 7, 5]	Average:	6.25
-Title:	FACT: Learning Governing Abstractions Behind Integer Sequences	URL:	https://openreview.net/forum?id=H4Po2dDzdFq	Review_scores	[4, 6, 5, 6, 7, 3]	Average:	5.166666666666667
+Title:	FACT: Learning Governing Abstractions Behind Integer Sequences	URL:	https://openreview.net/forum?id=H4Po2dDzdFq	Review_scores	[4, 6, 5, 6, 7, 10]	Average:	6.333333333333333
 Title:	A Survey and Datasheet Repository of Publicly Available US Criminal Justice Datasets	URL:	https://openreview.net/forum?id=FA9jVbCIgBh	Review_scores	[4, 6, 8, 5, 5, 5]	Average:	5.5
 Title:	An Empirical Deep Dive into Deep Learning's Driving Dynamics	URL:	https://openreview.net/forum?id=7etfTT9ppbO	Review_scores	[4, 7, 5, 4, 5]	Average:	5
 Title:	bank-account-fraud: Tabular Dataset(s) for Fraud Detection under Multiple Bias Conditions	URL:	https://openreview.net/forum?id=UrAYT2QwOX8	Review_scores	[4, 5, 5, 5, 6, 7]	Average:	5.333333333333333
@@ -103,8 +104,8 @@ Title:	Social B(eye)as over Time: Dataset for Temporal Auditing of Image Tagging
 Title:	Bagel: A Benchmark for Assessing Graph Neural Network Explanations	URL:	https://openreview.net/forum?id=fXKMkUF_GAj	Review_scores	[6, 3, 6, 4, 5, 6]	Average:	5
 Title:	Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms	URL:	https://openreview.net/forum?id=rjBYortWdRV	Review_scores	[6, 5, 2, 6, 7, 7]	Average:	5.5
 Title:	K-Radar: 4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions	URL:	https://openreview.net/forum?id=W_bsDmzwaZ7	Review_scores	[7, 5, 7, 8, 6, 6]	Average:	6.5
-Extracting data for page 3...
-100%|██████████| 50/50 [02:33<00:00,  3.06s/it]
+Extracting at page 3...
+100%|██████████| 50/50 [02:32<00:00,  3.04s/it]
 Title:	Simulating Environments for Evaluating Scarce Resource Allocation Policies	URL:	https://openreview.net/forum?id=9-qUAxF8q9l	Review_scores	[5, 6, 3, 6]	Average:	5
 Title:	SIMBA: Split Inference - Mechanisms, Benchmarks and Attacks	URL:	https://openreview.net/forum?id=4FNkIKC3fsE	Review_scores	[4, 7, 3, 3, 4, 3]	Average:	4
 Title:	SDWPF: A Dataset for Spatial Dynamic Wind Power Forecasting Challenge at KDD Cup 2022	URL:	https://openreview.net/forum?id=IBg_xblL3F2	Review_scores	[5, 8, 3, 7, 3, 6]	Average:	5.333333333333333
@@ -141,7 +142,7 @@ Title:	SAIC-IS: A Benchmark for High-Resolution Interactive Image Segmentation	U
 Title:	TextileNet: A Material Taxonomy-based Fashion Textile Dataset	URL:	https://openreview.net/forum?id=cWyacYBrVY	Review_scores	[5, 3, 5, 7, 8, 7]	Average:	5.833333333333333
 Title:	Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability	URL:	https://openreview.net/forum?id=ddPXQt-gM--	Review_scores	[7, 7, 6, 3, 6, 7]	Average:	6
 Title:	Multilingual Abusive Comment Detection at Scale for Indic Languages	URL:	https://openreview.net/forum?id=HCnb1TByvx7	Review_scores	[4, 6, 6, 7, 4]	Average:	5.4
-Title:	The BigScience Corpus A 1.6TB Composite Multilingual Dataset	URL:	https://openreview.net/forum?id=UoEw6KigkUn	Review_scores	[4, 3, 4, 4, 3, 4]	Average:	3.6666666666666665
+Title:	The BigScience Corpus A 1.6TB Composite Multilingual Dataset	URL:	https://openreview.net/forum?id=UoEw6KigkUn	Review_scores	[10, 7, 6, 9, 5, 8]	Average:	7.5
 Title:	SCERL: A Text-based Safety Benchmark for Reinforcement Learning Problems	URL:	https://openreview.net/forum?id=KCYYqvgQUHZ	Review_scores	[5, 4, 4, 8, 7, 4]	Average:	5.333333333333333
 Title:	CARLA-GeAR: A Dataset Generator for a Systematic Evaluation of Adversarial Robustness of Vision Models	URL:	https://openreview.net/forum?id=LmeIEe7XC-	Review_scores	[4, 5, 6, 4, 5]	Average:	4.8
 Title:	BLOX: Macro Neural Architecture Search Benchmark and Algorithms	URL:	https://openreview.net/forum?id=IIbJ9m5G73t	Review_scores	[6, 5, 7, 5, 7]	Average:	6
@@ -155,8 +156,8 @@ Title:	Benchmark Dataset for Precipitation Forecasting by Post-Processing the Nu
 Title:	Model-Agnostic Label Quality Scoring to Detect Real-World Label Errors	URL:	https://openreview.net/forum?id=m65ir_8N6ta	Review_scores	[5, 5, 9, 8, 4]	Average:	6.2
 Title:	Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning	URL:	https://openreview.net/forum?id=D29JbExncTP	Review_scores	[7, 6, 6, 5, 6, 7]	Average:	6.166666666666667
 Title:	Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems	URL:	https://openreview.net/forum?id=tXEe-Ew_ikh	Review_scores	[6, 4, 5, 7]	Average:	5.5
-Extracting data for page 4...
-100%|██████████| 50/50 [02:33<00:00,  3.06s/it]
+Extracting at page 4...
+100%|██████████| 50/50 [02:33<00:00,  3.07s/it]
 Title:	Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset	URL:	https://openreview.net/forum?id=3HCT3xfNm9r	Review_scores	[5, 8, 8, 7]	Average:	7
 Title:	DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech	URL:	https://openreview.net/forum?id=7ywelx5Yieb	Review_scores	[4, 4, 4, 4, 6, 6]	Average:	4.666666666666667
 Title:	HAPI: A Large-scale Longitudinal Dataset of Commercial ML API Predictions	URL:	https://openreview.net/forum?id=CZeIOfCjMf	Review_scores	[5, 9, 7, 5]	Average:	6.5
@@ -168,7 +169,7 @@ Title:	MVP-N: A Dataset and Benchmark for Real-World Multi-View Object Classific
 Title:	OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology	URL:	https://openreview.net/forum?id=2N8JzuiWZ25	Review_scores	[3, 8, 5, 6, 9, 9]	Average:	6.666666666666667
 Title:	DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision	URL:	https://openreview.net/forum?id=ChWf1E43l4	Review_scores	[4, 7, 8, 6, 6]	Average:	6.2
 Title:	The StarCraft Multi-Agent Challenges$^{+}$ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions	URL:	https://openreview.net/forum?id=9WqAXsbKDO	Review_scores	[7, 6, 5, 4, 4]	Average:	5.2
-Title:	EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records	URL:	https://openreview.net/forum?id=B2W8Vy0rarw	Review_scores	[9, 5, 4, 5, 3]	Average:	5.2
+Title:	EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records	URL:	https://openreview.net/forum?id=B2W8Vy0rarw	Review_scores	[9, 10, 4, 8, 6]	Average:	7.4
 Title:	HandMeThat: Human-Robot Communication in Physical and Social Environments	URL:	https://openreview.net/forum?id=nUTemM6v9sv	Review_scores	[7, 6, 5, 4, 7, 5]	Average:	5.666666666666667
 Title:	CLEVRER-Humans: Describing Physical and Causal Events the Human Way	URL:	https://openreview.net/forum?id=sd1fv0g3UO1	Review_scores	[8, 4, 4, 8, 6, 4]	Average:	5.666666666666667
 Title:	Multi-LexSum: Real-world Summaries of Civil Rights Lawsuits at Multiple Granularities	URL:	https://openreview.net/forum?id=z1d8fUiS8Cr	Review_scores	[8, 9, 5, 6, 7]	Average:	7
@@ -207,8 +208,8 @@ Title:	NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks	U
 Title:	A Weakly Supervised Learning Dataset for Research Replication Prediction	URL:	https://openreview.net/forum?id=4lIyA3oCao	Review_scores	[2, 6, 4, 6, 6, 4]	Average:	4.666666666666667
 Title:	A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams	URL:	https://openreview.net/forum?id=_LZLeiktZyB	Review_scores	[4, 8, 5, 4]	Average:	5.25
 Title:	jazzNet: An Open-Source Dataset of Fundamental Piano Patterns for Machine Learning Research in Music	URL:	https://openreview.net/forum?id=-0QznlyWJ2j	Review_scores	[8, 5, 4, 9, 4, 3]	Average:	5.5
-Extracting data for page 5...
-100%|██████████| 50/50 [02:33<00:00,  3.06s/it]
+Extracting at page 5...
+100%|██████████| 50/50 [02:35<00:00,  3.12s/it]
 Title:	A Large Scale Dataset for Image Restoration	URL:	https://openreview.net/forum?id=6E66VyzpCOd	Review_scores	[4, 3, 5, 5, 6, 7]	Average:	5
 Title:	Taxonomy of Benchmarks in Graph Representation Learning	URL:	https://openreview.net/forum?id=CwXxfUe-oy-	Review_scores	[7, 7, 6, 4]	Average:	6
 Title:	Code4ML: a Large-scale Dataset of annotated Machine Learning Code	URL:	https://openreview.net/forum?id=rku0AcpYr50	Review_scores	[6, 5, 3, 4, 5]	Average:	4.6
@@ -252,15 +253,15 @@ Title:	Hard ImageNet: Segmentations for Objects with Strong Spurious Cues	URL:	h
 Title:	On the Transferability of Visual Features in Generalized Zero-Shot Learning	URL:	https://openreview.net/forum?id=-drWAiNAKX8	Review_scores	[4, 6, 5, 4, 5]	Average:	4.8
 Title:	SurDis: A Surface Discontinuity Dataset for Wearable Technology to Assist Blind Navigation in Urban Environments	URL:	https://openreview.net/forum?id=kQUOIyPg-ux	Review_scores	[6, 7, 5, 4, 5, 6]	Average:	5.5
 Title:	BenMO: Benchmarking predictive machine learning algorithms using MultiOmics data	URL:	https://openreview.net/forum?id=B7CEdxcT7hT	Review_scores	[5, 6, 3, 3, 5]	Average:	4.4
-Title:	NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning	URL:	https://openreview.net/forum?id=jNdLszxdtra	Review_scores	[8, 5, 7, 7, 5]	Average:	6.4
-Title:	Benchmarking the Multi-task Learning for Unified Perception in Autonomous Driving	URL:	https://openreview.net/forum?id=XCl6ylbr_uy	Review_scores	[2, 4, 4, 6, 6]	Average:	4.4
+Title:	NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning	URL:	https://openreview.net/forum?id=jNdLszxdtra	Review_scores	[8, 5, 7, 7, 10]	Average:	7.4
+Title:	Benchmarking the Multi-task Learning for Unified Perception in Autonomous Driving	URL:	https://openreview.net/forum?id=XCl6ylbr_uy	Review_scores	[]	Average:	0
 Title:	Towards Video Text Visual Question Answering: Benchmark and Baseline	URL:	https://openreview.net/forum?id=yPZ7w29qSNK	Review_scores	[5, 5, 6]	Average:	5.333333333333333
 Title:	ADBench: Anomaly Detection Benchmark	URL:	https://openreview.net/forum?id=foA_SFQ9zo0	Review_scores	[5, 8, 6, 6, 7, 6]	Average:	6.333333333333333
 Title:	Benchmarking Robustness of 3D Point Cloud Recognition against Common Corruptions	URL:	https://openreview.net/forum?id=ApQTT2fsYRE	Review_scores	[5, 5, 6, 5, 6, 4]	Average:	5.166666666666667
 Title:	USB: A Unified Semi-supervised Learning Benchmark	URL:	https://openreview.net/forum?id=QeuwINa96C	Review_scores	[7, 4, 6, 4, 7, 5]	Average:	5.5
 Title:	CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks	URL:	https://openreview.net/forum?id=FhqzyGoTSH	Review_scores	[6, 5, 7, 6, 4, 7]	Average:	5.833333333333333
-Extracting data for page 6...
-100%|██████████| 50/50 [02:32<00:00,  3.04s/it]
+Extracting at page 6...
+100%|██████████| 50/50 [02:34<00:00,  3.10s/it]
 Title:	Open-vocabulary Attribute Detection	URL:	https://openreview.net/forum?id=4W2UaAZBKK	Review_scores	[5, 9, 5, 4, 6, 4]	Average:	5.5
 Title:	Kantorovich Strikes Back! Wasserstein GANs are not Optimal Transport?	URL:	https://openreview.net/forum?id=VtEEpi-dGlt	Review_scores	[6, 8, 7, 7, 6, 7]	Average:	6.833333333333333
 Title:	Breaking Bad: A Dataset for Geometric Fracture and Reassembly	URL:	https://openreview.net/forum?id=mJWt6pOcHNy	Review_scores	[7, 8, 9, 7, 5]	Average:	7.2
@@ -311,8 +312,8 @@ Title:	Referring Image Matting	URL:	https://openreview.net/forum?id=1s3exTIb-1p	
 Title:	WikiDT:  Visual-based Table Recognition and Question Answering Dataset	URL:	https://openreview.net/forum?id=xUqpKEl0n2	Review_scores	[6, 4, 5, 4, 4, 3]	Average:	4.333333333333333
 Title:	APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking	URL:	https://openreview.net/forum?id=mV4EKzUVI96	Review_scores	[6, 7, 4, 6, 6]	Average:	5.8
 Title:	Data-Driven Network Neuroscience: On Data Collection and Benchmark	URL:	https://openreview.net/forum?id=xC5DF3ImHxk	Review_scores	[3, 6, 6, 4, 5, 6]	Average:	5
-Extracting data for page 7...
-100%|██████████| 50/50 [02:34<00:00,  3.08s/it]
+Extracting at page 7...
+100%|██████████| 50/50 [02:33<00:00,  3.07s/it]
 Title:	CGLB: Benchmark Tasks for Continual Graph Learning	URL:	https://openreview.net/forum?id=5wNiiIDynDF	Review_scores	[6, 5, 7, 6, 6, 4, 7]	Average:	5.857142857142857
 Title:	A Medical Low-Back Pain Physical Rehabilitation Database for Human Body Movement Analysis	URL:	https://openreview.net/forum?id=sMIV0bGHn9R	Review_scores	[6, 3, 4, 3, 4]	Average:	4
 Title:	BigIssue: A Realistic Bug Localization Benchmark	URL:	https://openreview.net/forum?id=1tsFygAnpk	Review_scores	[4, 5, 5, 7, 4]	Average:	5
@@ -363,8 +364,8 @@ Title:	Dynamic stability of power grids - new datasets for Graph Neural Networks
 Title:	Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time	URL:	https://openreview.net/forum?id=F9ENmZABB0	Review_scores	[5, 5, 4, 7, 6, 7]	Average:	5.666666666666667
 Title:	Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery	URL:	https://openreview.net/forum?id=MPrcwjMgL3d	Review_scores	[5, 6, 6, 5, 7, 6]	Average:	5.833333333333333
 Title:	Geoclidean: Few-Shot Generalization in Euclidean Geometry	URL:	https://openreview.net/forum?id=3lk54yE2tYJ	Review_scores	[6, 6, 8, 8, 7]	Average:	7
-Extracting data for page 8...
-100%|██████████| 33/33 [01:43<00:00,  3.13s/it]
+Extracting at page 8...
+100%|██████████| 33/33 [01:41<00:00,  3.06s/it]
 Title:	Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study	URL:	https://openreview.net/forum?id=cAfxpYw1cS	Review_scores	[5, 7, 6, 3, 6]	Average:	5.4
 Title:	EST: Evaluating Scientific Thinking in Artificial Agents	URL:	https://openreview.net/forum?id=Sqf4LOnAPU6	Review_scores	[6, 5, 6, 2, 6]	Average:	5
 Title:	MC-Blur: A Comprehensive Benchmark for Image Deblurring	URL:	https://openreview.net/forum?id=n1FcVf5Fgw	Review_scores	[6, 5, 7, 6, 4]	Average:	5.6
@@ -398,7 +399,3 @@ Title:	ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discove
 Title:	Prod3W: When, Where and What is the Product Sold? Million-Scale Benchmarks for E-commerce	URL:	https://openreview.net/forum?id=GQy6pR5uBkq	Review_scores	[5, 6, 5, 6, 5]	Average:	5.4
 Title:	Sanity Check for External Clustering Validation Benchmarks using Internal Validation Measures	URL:	https://openreview.net/forum?id=eblhHbI9a0J	Review_scores	[7, 6, 5, 6, 5]	Average:	5.8
 Title:	Enabling Detailed Action Recognition Evaluation Through Video Dataset Augmentation	URL:	https://openreview.net/forum?id=eOnQ2etkxto	Review_scores	[7, 6, 6, 7, 4, 5]	Average:	5.833333333333333
-Finish!
-
-Process finished with exit code 0
-

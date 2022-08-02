@@ -18,7 +18,7 @@ if __name__ == '__main__':
             results = {}
             html = ""
 
-            with open("{}/page{}.txt".format(conf, i+1), "r") as input_file:
+            with open("data/{}/page{}.txt".format(conf, i+1), "r") as input_file:
                 for line in input_file:
                     html += line
 
