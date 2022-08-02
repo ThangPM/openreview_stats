@@ -1,3 +1,4 @@
 requests-html
 beautifulsoup4
+pandas
 tqdm
