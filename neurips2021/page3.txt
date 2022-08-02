@@ -1,0 +1,779 @@
+<ul class="list-unstyled submissions-list">
+    <li class="note " data-id="KBbxt3JGn0Y" data-number="47">
+        <h4>
+          <a href="/forum?id=KBbxt3JGn0Y">
+              One Million Scenes for Autonomous Driving: ONCE Dataset
+          </a>
+
+
+            <a href="/pdf?id=KBbxt3JGn0Y" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Jiageng_Mao1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jiageng_Mao1">Jiageng Mao</a>, <a href="/profile?id=~Minzhe_Niu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Minzhe_Niu1">Minzhe Niu</a>, <a href="/profile?id=~Chenhan_Jiang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Chenhan_Jiang1">Chenhan Jiang</a>, <a href="/profile?id=~hanxue_liang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~hanxue_liang1">hanxue liang</a>, <a href="/profile?id=~Jingheng_Chen1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jingheng_Chen1">Jingheng Chen</a>, <a href="/profile?id=~Xiaodan_Liang2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Xiaodan_Liang2">Xiaodan Liang</a>, <a href="/profile?id=~Yamin_Li1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yamin_Li1">Yamin Li</a>, <a href="/profile?id=~Chaoqiang_Ye1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Chaoqiang_Ye1">Chaoqiang Ye</a>, <a href="/profile?id=~Wei_Zhang45" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Wei_Zhang45">Wei Zhang</a>, <a href="/profile?id=~Zhenguo_Li1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Zhenguo_Li1">Zhenguo Li</a>, <a href="/profile?id=~Jie_Yu2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jie_Yu2">Jie Yu</a>, <a href="/profile?id=~Hang_Xu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Hang_Xu1">Hang Xu</a>, <a href="/profile?id=~Chunjing_Xu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Chunjing_Xu1">Chunjing Xu</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">05 Jun 2021 (modified: 05 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">11 Replies</span>
+
+
+        </div>
+
+          <a href="#KBbxt3JGn0Y-details-231" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="KBbxt3JGn0Y-details-231"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">autonomous driving, 3D object detection, dataset, benchmark</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present a large-scale dataset and benchmark for 3D object detection in the autonomous driving scenario.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Current perception models in autonomous driving have become notorious for greatly relying on a mass of annotated data to cover unseen cases and address the long-tail problem. On the other hand, learning from unlabeled large-scale collected data and incrementally self-training powerful recognition models have received increasing attention and may become the solutions of next-generation industry-level powerful and robust perception models in autonomous driving. However, the research community generally suffered from data inadequacy of those essential real-world scene data, which hampers the future exploration of fully/semi/self-supervised methods for 3D perception. In this paper, we introduce the ONCE (One millioN sCenEs) dataset for 3D object detection in the autonomous driving scenario. The ONCE dataset consists of 1 million LiDAR scenes and 7 million corresponding camera images. The data is selected from 144 driving hours, which is 20x longer than the largest 3D autonomous driving dataset available (\eg nuScenes and Waymo), and it is collected across a range of different areas, periods and weather conditions. To facilitate future research on exploiting unlabeled data for 3D detection, we additionally provide a benchmark in which we reproduce and evaluate a variety of self-supervised and semi-supervised methods on the ONCE dataset. We conduct extensive analyses on those methods and provide valuable observations on their performance related to the scale of used data. Data, code, and more information are available at \href{https://once-for-auto-driving.github.io/index.html}{http://www.once-for-auto-driving.com}. </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=KBbxt3JGn0Y&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://once-for-auto-driving.github.io/index.html" target="_blank" rel="nofollow noreferrer">https://once-for-auto-driving.github.io/index.html</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://once-for-auto-driving.github.io/index.html" target="_blank" rel="nofollow noreferrer">https://once-for-auto-driving.github.io/index.html</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">CC BY-NC-SA 4.0</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Jvxa8adr3iY" data-number="46">
+        <h4>
+          <a href="/forum?id=Jvxa8adr3iY">
+              NaturalProofs: Mathematical Theorem Proving in Natural Language
+          </a>
+
+
+            <a href="/pdf?id=Jvxa8adr3iY" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Sean_Welleck1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Sean_Welleck1">Sean Welleck</a>, <a href="/profile?id=~Jiacheng_Liu2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jiacheng_Liu2">Jiacheng Liu</a>, <a href="/profile?id=~Ronan_Le_Bras1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Ronan_Le_Bras1">Ronan Le Bras</a>, <a href="/profile?id=~Hannaneh_Hajishirzi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Hannaneh_Hajishirzi1">Hannaneh Hajishirzi</a>, <a href="/profile?id=~Yejin_Choi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yejin_Choi1">Yejin Choi</a>, <a href="/profile?id=~Kyunghyun_Cho1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Kyunghyun_Cho1">Kyunghyun Cho</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">04 Jun 2021 (modified: 05 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">7 Replies</span>
+
+
+        </div>
+
+          <a href="#Jvxa8adr3iY-details-303" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="Jvxa8adr3iY-details-303"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">NLP, mathematics, retrieval, generation, reasoning, theorem proving</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">NaturalProofs is a multi-domain corpus of mathematical statements and proofs in natural language, along with benchmark models and tasks.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Understanding and creating mathematics using natural mathematical language - the mixture of symbolic and natural language used by humans - is a challenging and important problem for driving progress in machine learning. As a step in this direction, we develop NaturalProofs, a multi-domain corpus of mathematical statements and their proofs, written in natural mathematical language. NaturalProofs unifies broad coverage, deep coverage, and low-resource mathematical sources, allowing for evaluating both in-distribution and zero-shot generalization. Using NaturalProofs, we benchmark strong neural methods on mathematical reference retrieval and generation tasks which test a system's ability to determine key results that appear in a proof. Large-scale sequence models show promise compared to classical information retrieval methods, yet their performance and out-of-domain generalization leave substantial room for improvement. NaturalProofs opens many avenues for research on challenging mathematical tasks.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=Jvxa8adr3iY&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/wellecks/naturalproofs" target="_blank" rel="nofollow noreferrer">https://github.com/wellecks/naturalproofs</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Yx9jT3fkBaD" data-number="41">
+        <h4>
+          <a href="/forum?id=Yx9jT3fkBaD">
+              A Spoken Language Dataset of Descriptions for Speech-Based Grounded Language Learning
+          </a>
+
+
+            <a href="/pdf?id=Yx9jT3fkBaD" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Gaoussou_Youssouf_Kebe1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Gaoussou_Youssouf_Kebe1">Gaoussou Youssouf Kebe</a>, <a href="/profile?id=~Padraig_Higgins1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Padraig_Higgins1">Padraig Higgins</a>, <a href="/profile?email=pjenk1%40umbc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="pjenk1@umbc.edu">Patrick Jenkins</a>, <a href="/profile?id=~Kasra_Darvish1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Kasra_Darvish1">Kasra Darvish</a>, <a href="/profile?id=~Rishabh_Sachdeva1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Rishabh_Sachdeva1">Rishabh Sachdeva</a>, <a href="/profile?email=ryanb4%40umbc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="ryanb4@umbc.edu">Ryan Barron</a>, <a href="/profile?email=jwinder1%40umbc.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="jwinder1@umbc.edu">John Winder</a>, <a href="/profile?id=~Donald_Engel1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Donald_Engel1">Donald Engel</a>, <a href="/profile?id=~Edward_Raff1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Edward_Raff1">Edward Raff</a>, <a href="/profile?id=~Francis_Ferraro1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Francis_Ferraro1">Francis Ferraro</a>, <a href="/profile?id=~Cynthia_Matuszek1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Cynthia_Matuszek1">Cynthia Matuszek</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">04 Jun 2021 (modified: 15 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#Yx9jT3fkBaD-details-473" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="Yx9jT3fkBaD-details-473"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Grounded Language Acquisition, Speech Processing, Computer Vision, Natural Language Processing</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present a multimodal dataset of objects with spoken as well as textual descriptions.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Grounded language acquisition is a major area of research combining aspects of natural language processing, computer vision, and signal processing, compounded by domain issues requiring sample efficiency and other deployment constraints.
+        In this work, we present a multimodal dataset of RGB+depth objects with spoken as well as textual descriptions. We analyze the differences between the two types of descriptive language and our experiments demonstrate that the different modalities affect learning. This will enable researchers studying the intersection of robotics, NLP, and HCI to better investigate how the multiple modalities of image, depth, text, speech, and transcription interact, as well as how differences in the vernacular of these modalities impact results.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=Yx9jT3fkBaD&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/iral-lab/gold" target="_blank" rel="nofollow noreferrer">https://github.com/iral-lab/gold</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/iral-lab/gold" target="_blank" rel="nofollow noreferrer">https://github.com/iral-lab/gold</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">Creative Commons Attribution 4.0 International (CC BY 4.0)
+        https://creativecommons.org/licenses/by/4.0/</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="LlCQWh8-pwK" data-number="40">
+        <h4>
+          <a href="/forum?id=LlCQWh8-pwK">
+              A Procedural World Generation Framework for Systematic Evaluation of Continual Learning
+          </a>
+
+
+            <a href="/pdf?id=LlCQWh8-pwK" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Timm_Hess1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Timm_Hess1">Timm Hess</a>, <a href="/profile?id=~Martin_Mundt1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Martin_Mundt1">Martin Mundt</a>, <a href="/profile?id=~Iuliia_Pliushch1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Iuliia_Pliushch1">Iuliia Pliushch</a>, <a href="/profile?id=~Visvanathan_Ramesh1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Visvanathan_Ramesh1">Visvanathan Ramesh</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">04 Jun 2021 (modified: 04 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#LlCQWh8-pwK-details-278" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="LlCQWh8-pwK-details-278"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">continual deep learning, synthetic data generation, continual learning benchmarks, computer vision, catastrophic interference</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We introduce a graphics simulator to flexibly compose datasets for deep continual learning.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Several families of continual learning techniques have been proposed to alleviate catastrophic interference in deep neural network training on non-stationary data. However, a comprehensive comparison and analysis of limitations remains largely open due to the inaccessibility to suitable datasets. Empirical examination not only varies immensely between individual works, it further currently relies on contrived composition of benchmarks through subdivision and concatenation of various prevalent static vision datasets. In this work, our goal is to bridge this gap by introducing a computer graphics simulation framework that repeatedly renders only upcoming urban scene fragments in an endless real-time procedural world generation process. At its core lies a modular parametric generative model with adaptable generative factors. The latter can be used to flexibly compose data streams, which significantly facilitates a detailed analysis and allows for effortless investigation of various continual learning schemes. </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=LlCQWh8-pwK&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">See paper contributions - Simulator Standalone Executable: https://doi.org/10.5281/zenodo.4899294 ; Simulator Source Code: https://github.com/ccc-frankfurt/EndlessCL-Simulator-Source ; Generated Experimental Datasets: https://doi.org/10.5281/zenodo.4899267 </span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="dA2Q8CfmGpp" data-number="32">
+        <h4>
+          <a href="/forum?id=dA2Q8CfmGpp">
+              BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling
+          </a>
+
+
+            <a href="/pdf?id=dA2Q8CfmGpp" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Zhaojiang_Lin1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Zhaojiang_Lin1">Zhaojiang Lin</a>, <a href="/profile?id=~Andrea_Madotto1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Andrea_Madotto1">Andrea Madotto</a>, <a href="/profile?id=~Genta_Indra_Winata1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Genta_Indra_Winata1">Genta Indra Winata</a>, <a href="/profile?id=~Peng_Xu7" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Peng_Xu7">Peng Xu</a>, <a href="/profile?id=~Feijun_Jiang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Feijun_Jiang1">Feijun Jiang</a>, <a href="/profile?id=~Yuxiang_Hu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yuxiang_Hu1">Yuxiang Hu</a>, <a href="/profile?id=~Chen_Shi2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Chen_Shi2">Chen Shi</a>, <a href="/profile?id=~Pascale_Fung1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Pascale_Fung1">Pascale Fung</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">03 Jun 2021 (modified: 30 Oct 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">15 Replies</span>
+
+
+        </div>
+
+          <a href="#dA2Q8CfmGpp-details-276" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="dA2Q8CfmGpp-details-276"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">End-to-end, Task-oriented Dialogue, Bilingual</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We propose a bilingual multi-domain dataset for end-to-end task-oriented dialogue modeling.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Task-oriented dialogue (ToD) benchmarks provide an important avenue to measure progress and develop better conversational agents. However, existing datasets for end-to-end ToD modeling are limited to a single language, hindering the development of robust end-to-end ToD systems for multilingual countries and regions. Here we introduce BiToD, the first bilingual multi-domain dataset for end-to-end task-oriented dialogue modeling. BiToD contains over 7k multi-domain dialogues (144k utterances) with a large and realistic bilingual knowledge base. It serves as an effective benchmark for evaluating bilingual ToD systems and cross-lingual transfer learning approaches. We provide state-of-the-art baselines under three evaluation settings (monolingual, bilingual, and cross-lingual). The analysis of our baselines in different settings highlights 1) the effectiveness of training a bilingual ToD system comparing to two independent monolingual ToD systems, and 2) the potential of leveraging a bilingual knowledge base and cross-lingual transfer learning to improve the system performance in the low resource condition.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/HLTCHKUST/BiToD" target="_blank" rel="nofollow noreferrer">https://github.com/HLTCHKUST/BiToD</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=dA2Q8CfmGpp&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="6lE4dQXaUcb" data-number="31">
+        <h4>
+          <a href="/forum?id=6lE4dQXaUcb">
+              CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation
+          </a>
+
+
+            <a href="/pdf?id=6lE4dQXaUcb" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Shuai_Lu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Shuai_Lu1">Shuai Lu</a>, <a href="/profile?id=~Daya_Guo2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Daya_Guo2">Daya Guo</a>, <a href="/profile?id=~Shuo_Ren1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Shuo_Ren1">Shuo Ren</a>, <a href="/profile?id=~Junjie_Huang2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Junjie_Huang2">Junjie Huang</a>, <a href="/profile?id=~Alexey_Svyatkovskiy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Alexey_Svyatkovskiy1">Alexey Svyatkovskiy</a>, <a href="/profile?email=ambrosio.blanco%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="ambrosio.blanco@microsoft.com">Ambrosio Blanco</a>, <a href="/profile?id=~Colin_Clement1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Colin_Clement1">Colin Clement</a>, <a href="/profile?id=~Dawn_Drain1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Dawn_Drain1">Dawn Drain</a>, <a href="/profile?id=~Daxin_Jiang2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Daxin_Jiang2">Daxin Jiang</a>, <a href="/profile?id=~Duyu_Tang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Duyu_Tang1">Duyu Tang</a>, <a href="/profile?id=~Ge_Li4" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Ge_Li4">Ge Li</a>, <a href="/profile?email=lidongz%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="lidongz@microsoft.com">Lidong Zhou</a>, <a href="/profile?id=~Linjun_Shou1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Linjun_Shou1">Linjun Shou</a>, <a href="/profile?id=~Long_Zhou2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Long_Zhou2">Long Zhou</a>, <a href="/profile?id=~Michele_Tufano1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Michele_Tufano1">Michele Tufano</a>, <a href="/profile?id=~MING_GONG2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~MING_GONG2">MING GONG</a>, <a href="/profile?id=~Ming_Zhou1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Ming_Zhou1">Ming Zhou</a>, <a href="/profile?id=~Nan_Duan1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Nan_Duan1">Nan Duan</a>, <a href="/profile?id=~Neel_Sundaresan3" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Neel_Sundaresan3">Neel Sundaresan</a>, <a href="/profile?id=~Shao_Kun_Deng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Shao_Kun_Deng1">Shao Kun Deng</a>, <a href="/profile?email=shengyfu%40microsoft.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="shengyfu@microsoft.com">Shengyu Fu</a>, <a href="/profile?id=~Shujie_LIU1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Shujie_LIU1">Shujie LIU</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">03 Jun 2021 (modified: 11 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">13 Replies</span>
+
+
+        </div>
+
+          <a href="#6lE4dQXaUcb-details-922" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="6lE4dQXaUcb-details-922"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Benchmark datasets have a significant impact on accelerating research in programming language tasks. In this paper, we introduce CodeXGLUE, a benchmark dataset to foster machine learning research for program understanding and generation. CodeXGLUE includes a collection of 10 tasks across 14 datasets and a platform for model evaluation and comparison. CodeXGLUE also features three baseline systems, including the BERT-style, GPT-style, and Encoder-Decoder models, to make it easy for researchers to use the platform. The availability of such data and baselines can help the development and validation of new methods that can be applied to various program understanding and generation problems.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=6lE4dQXaUcb&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/microsoft/CodeXGLUE" target="_blank" rel="nofollow noreferrer">https://github.com/microsoft/CodeXGLUE</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/microsoft/CodeXGLUE" target="_blank" rel="nofollow noreferrer">https://github.com/microsoft/CodeXGLUE</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">Our codes follow MIT License.
+        Our datasets follow Computational Use of Data Agreement (C-UDA) License.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="HrhaC-bLC5U" data-number="30">
+        <h4>
+          <a href="/forum?id=HrhaC-bLC5U">
+              Timers and Such: A Practical Benchmark for Spoken Language Understanding with Numbers
+          </a>
+
+
+            <a href="/pdf?id=HrhaC-bLC5U" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Loren_Lugosch1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Loren_Lugosch1">Loren Lugosch</a>, <a href="/profile?id=~Piyush_Papreja1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Piyush_Papreja1">Piyush Papreja</a>, <a href="/profile?id=~Mirco_Ravanelli1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Mirco_Ravanelli1">Mirco Ravanelli</a>, <a href="/profile?id=~Abdelwahab_HEBA1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Abdelwahab_HEBA1">Abdelwahab HEBA</a>, <a href="/profile?id=~Titouan_Parcollet1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Titouan_Parcollet1">Titouan Parcollet</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">02 Jun 2021 (modified: 31 Oct 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">22 Replies</span>
+
+
+        </div>
+
+          <a href="#HrhaC-bLC5U-details-163" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="HrhaC-bLC5U-details-163"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">spoken language understanding, speech recognition, open source data</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">New English speech dataset for timers, alarms, unit conversion, and math.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">This paper introduces Timers and Such, a new open source dataset of spoken English commands for common voice control use cases involving numbers. We describe the gap in existing spoken language understanding datasets that Timers and Such fills, the design and creation of the dataset, and experiments with a number of ASR-based and end-to-end baseline models, the code for which has been made available as part of the SpeechBrain toolkit.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=HrhaC-bLC5U&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">https://zenodo.org/record/4623772 (the code at https://github.com/speechbrain/speechbrain/tree/develop/recipes/timers-and-such will download and format the dataset)</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="1vC5GFOXuhM" data-number="28">
+        <h4>
+          <a href="/forum?id=1vC5GFOXuhM">
+              CCNLab: A Benchmarking Framework for Computational Cognitive Neuroscience
+          </a>
+
+
+            <a href="/pdf?id=1vC5GFOXuhM" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Nikhil_Xie_Bhattasali1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Nikhil_Xie_Bhattasali1">Nikhil Xie Bhattasali</a>, <a href="/profile?id=~Momchil_Tomov1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Momchil_Tomov1">Momchil Tomov</a>, <a href="/profile?id=~Samuel_Gershman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Samuel_Gershman1">Samuel Gershman</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">02 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">7 Replies</span>
+
+
+        </div>
+
+          <a href="#1vC5GFOXuhM-details-77" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="1vC5GFOXuhM-details-77"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">benchmark, computational neuroscience, cognitive neuroscience, classical conditioning</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">CCNLab is a benchmark for evaluating computational cognitive neuroscience models on empirical data. As a starting point, its focus is classical conditioning, which studies how animals predict reward and punishment in the environment. CCNLab includes a collection of simulations of seminal experiments expressed under a common API, as wells as tools for visualizing and comparing simulated data with empirical data. CCNLab is broad, incorporating representative experiments from different categories of phenomena; flexible, allowing the straightforward addition of new experiments; and easy-to-use, so researchers can focus on developing better models. We envision CCNLab as a testbed for unifying computational theories of learning in the brain. We also hope that it can broadly accelerate neuroscience research and facilitate interaction between the fields of neuroscience, psychology, and artificial intelligence.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/nikhilxb/ccnlab" target="_blank" rel="nofollow noreferrer">https://github.com/nikhilxb/ccnlab</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=1vC5GFOXuhM&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="izzQAL8BciY" data-number="23">
+        <h4>
+          <a href="/forum?id=izzQAL8BciY">
+              MultiBench: Multiscale Benchmarks for Multimodal Representation Learning
+          </a>
+
+
+            <a href="/pdf?id=izzQAL8BciY" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Paul_Pu_Liang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Paul_Pu_Liang1">Paul Pu Liang</a>, <a href="/profile?id=~Yiwei_Lyu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yiwei_Lyu1">Yiwei Lyu</a>, <a href="/profile?id=~Xiang_Fan1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Xiang_Fan1">Xiang Fan</a>, <a href="/profile?id=~Zetian_Wu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Zetian_Wu1">Zetian Wu</a>, <a href="/profile?id=~Yun_Cheng2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yun_Cheng2">Yun Cheng</a>, <a href="/profile?id=~Jason_Wu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jason_Wu1">Jason Wu</a>, <a href="/profile?id=~Leslie_Yufan_Chen1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Leslie_Yufan_Chen1">Leslie Yufan Chen</a>, <a href="/profile?id=~Peter_Wu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Peter_Wu1">Peter Wu</a>, <a href="/profile?id=~Michelle_A_Lee1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Michelle_A_Lee1">Michelle A Lee</a>, <a href="/profile?id=~Yuke_Zhu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yuke_Zhu1">Yuke Zhu</a>, <a href="/profile?id=~Russ_Salakhutdinov1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Russ_Salakhutdinov1">Russ Salakhutdinov</a>, <a href="/profile?id=~Louis-Philippe_Morency1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Louis-Philippe_Morency1">Louis-Philippe Morency</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">31 May 2021 (modified: 11 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">8 Replies</span>
+
+
+        </div>
+
+          <a href="#izzQAL8BciY-details-488" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="izzQAL8BciY-details-488"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">multimodal learning, representation learning, robustness, complexity</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">MultiBench is a unified large-scale benchmark for multimodal learning spanning 15 datasets, 10 modalities, 20 prediction tasks, and 6 research areas, enabling holistic evaluation of the generalization, complexity, and robustness of multimodal models.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Learning multimodal representations involves integrating information from multiple heterogeneous sources of data. It is a challenging yet crucial area with numerous real-world applications in multimedia, affective computing, robotics, finance, human-computer interaction, and healthcare. Unfortunately, multimodal research has seen limited resources to study (1) generalization across domains and modalities, (2) complexity during training and inference, and (3) robustness to noisy and missing modalities. In order to accelerate progress towards understudied modalities and tasks while ensuring real-world robustness, we release MultiBench, a systematic and unified large-scale benchmark for multimodal learning spanning 15 datasets, 10 modalities, 20 prediction tasks, and 6 research areas. MultiBench provides an automated end-to-end machine learning pipeline that simplifies and standardizes data loading, experimental setup, and model evaluation. To enable holistic evaluation, MultiBench offers a comprehensive methodology to assess (1) generalization, (2) time and space complexity, and (3) modality robustness. MultiBench introduces impactful challenges for future research, including scalability to large-scale multimodal datasets and robustness to realistic imperfections. To accompany this benchmark, we also provide a standardized implementation of 20 core approaches in multimodal learning spanning innovations in fusion paradigms, optimization objectives, and training approaches. Simply applying methods proposed in different research areas can improve the state-of-the-art performance on 9/15 datasets. Therefore, MultiBench presents a milestone in unifying disjoint efforts in multimodal machine learning research and paves the way towards a better understanding of the capabilities and limitations of multimodal models, all the while ensuring ease of use, accessibility, and reproducibility. MultiBench, our standardized implementations, and leaderboards are publicly available, will be regularly updated, and welcomes inputs from the community.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=izzQAL8BciY&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">Webpage: https://cmu-multicomp-lab.github.io/multibench ; Code: https://github.com/pliang279/MultiBench</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value ">Webpage: https://cmu-multicomp-lab.github.io/multibench ; Code: https://github.com/pliang279/MultiBench</span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">MIT License</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Zkj_VcZ6ol" data-number="20">
+        <h4>
+          <a href="/forum?id=Zkj_VcZ6ol">
+              ImageNet-21K Pretraining for the Masses
+          </a>
+
+
+            <a href="/pdf?id=Zkj_VcZ6ol" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Tal_Ridnik2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Tal_Ridnik2">Tal Ridnik</a>, <a href="/profile?email=emanuel.benbaruch%40alibaba-inc.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="emanuel.benbaruch@alibaba-inc.com">Emanuel Ben-Baruch</a>, <a href="/profile?id=~Asaf_Noy2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Asaf_Noy2">Asaf Noy</a>, <a href="/profile?id=~Lihi_Zelnik-Manor1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Lihi_Zelnik-Manor1">Lihi Zelnik-Manor</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">30 May 2021 (modified: 30 Dec 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">8 Replies</span>
+
+
+        </div>
+
+          <a href="#Zkj_VcZ6ol-details-270" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="Zkj_VcZ6ol-details-270"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">ImageNet21K, pretraining, SOTA, semantic softmax, single-label, multi-label, downstream</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present a novel end-to-end scheme for high-quality efficient pretraining on ImageNet-21K dataset</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">ImageNet-1K serves as the primary dataset for pretraining deep learning models for computer vision tasks. ImageNet-21K dataset, which is bigger and more diverse, is used less frequently for pretraining, mainly due to its complexity, low accessibility, and underestimation of its added value.
+        This paper aims to close this gap, and make high-quality efficient pretraining on ImageNet-21K available for everyone.
+        Via a dedicated preprocessing stage, utilization of WordNet hierarchical structure, and a novel training scheme called semantic softmax, we show that various models significantly benefit from ImageNet-21K pretraining on numerous datasets and tasks, including small mobile-oriented models.
+        We also show that we outperform previous ImageNet-21K pretraining schemes for prominent new models like ViT and Mixer.
+        Our proposed pretraining pipeline is efficient, accessible, and leads to SoTA reproducible results, from a publicly available dataset. The training code and pretrained models are available at:  https://github.com/Alibaba-MIIL/ImageNet21K</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=Zkj_VcZ6ol&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/Alibaba-MIIL/ImageNet21K" target="_blank" rel="nofollow noreferrer">https://github.com/Alibaba-MIIL/ImageNet21K</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="7FHnnENUG0" data-number="19">
+        <h4>
+          <a href="/forum?id=7FHnnENUG0">
+              Modeling Worlds in Text
+          </a>
+
+
+            <a href="/pdf?id=7FHnnENUG0" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Prithviraj_Ammanabrolu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Prithviraj_Ammanabrolu1">Prithviraj Ammanabrolu</a>, <a href="/profile?id=~Mark_Riedl1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Mark_Riedl1">Mark Riedl</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">28 May 2021 (modified: 29 Jul 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">4 Replies</span>
+
+
+        </div>
+
+          <a href="#7FHnnENUG0-details-297" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="7FHnnENUG0-details-297"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">World Models, Text-based Games, Natural Language Processing, Knowledge Graphs</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We provide a dataset and corresponding benchmarks with baselines that enables the creation of learning agents that can build knowledge graph-based world models of interactive narratives.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We provide a dataset that enables the creation of learning agents that can build knowledge graph-based world models of interactive narratives. Interactive narratives---or text-adventure games---are partially observable environments structured as long puzzles or quests in which an agent perceives and interacts with the world purely through textual natural language. Each individual game typically contains hundreds of locations, characters, and objects---each with their own unique descriptions---providing an opportunity to study the problem of giving language-based agents the structured memory necessary to operate in such worlds. Our dataset provides 24198 mappings between rich natural language observations and: (1) knowledge graphs that reflect the world state in the form of a map; (2) natural language actions that are guaranteed to cause a change in that particular world state. The training data is collected across 27 games in multiple genres and contains a further 7836 heldout instances over 9 additional games in the test set. We further provide baseline models using rules-based, question-answering, and sequence learning approaches in addition to an analysis of the data and corresponding learning tasks.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=7FHnnENUG0&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/JerichoWorld/JerichoWorld" target="_blank" rel="nofollow noreferrer">https://github.com/JerichoWorld/JerichoWorld</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="TUplOmF8DsM" data-number="12">
+        <h4>
+          <a href="/forum?id=TUplOmF8DsM">
+              MQBench: Towards Reproducible and Deployable Model Quantization Benchmark
+          </a>
+
+
+            <a href="/pdf?id=TUplOmF8DsM" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Yuhang_Li1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yuhang_Li1">Yuhang Li</a>, <a href="/profile?id=~Mingzhu_Shen1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Mingzhu_Shen1">Mingzhu Shen</a>, <a href="/profile?id=~Jian_Ma5" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Jian_Ma5">Jian Ma</a>, <a href="/profile?id=~Yan_Ren2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yan_Ren2">Yan Ren</a>, <a href="/profile?id=~Mingxin_Zhao1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Mingxin_Zhao1">Mingxin Zhao</a>, <a href="/profile?id=~Qi_Zhang15" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Qi_Zhang15">Qi Zhang</a>, <a href="/profile?id=~Ruihao_Gong1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Ruihao_Gong1">Ruihao Gong</a>, <a href="/profile?id=~Fengwei_Yu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Fengwei_Yu1">Fengwei Yu</a>, <a href="/profile?id=~Junjie_Yan4" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Junjie_Yan4">Junjie Yan</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">20 May 2021 (modified: 27 Dec 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">9 Replies</span>
+
+
+        </div>
+
+          <a href="#TUplOmF8DsM-details-631" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="TUplOmF8DsM-details-631"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Quantization-aware Training, Post-training Quantization, Benchmark</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Model quantization has emerged as an indispensable technique to accelerate deep learning inference.
+        Although researchers continue to push the frontier of quantization algorithms, existing quantization work is often unreproducible and undeployable.
+        This is because researchers do not choose consistent training pipelines and ignore the requirements for hardware deployments.
+        In this work, we propose Model Quantization Benchmark (MQBench), a first attempt to evaluate, analyze, and benchmark the reproducibility and deployability for model quantization algorithms.
+        We choose multiple different platforms for real-world deployments, including CPU, GPU, ASIC, DSP, and evaluate extensive state-of-the-art quantization algorithms under a unified training pipeline.
+        MQBench acts like a bridge to connect the algorithm and the hardware.
+        We conduct a comprehensive analysis and find considerable intuitive or counter-intuitive insights. By aligning up the training settings, we find existing algorithms have about-the-same performance on the conventional academic track. While for the hardware-deployable quantization, there is a huge accuracy gap and still a long way to go. Surprisingly, no existing algorithm wins every challenge in MQBench, and we hope this work could inspire future research directions.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=TUplOmF8DsM&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We design a benchmark for quantization algorithms and target hardware.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="http://mqbench.tech/" target="_blank" rel="nofollow noreferrer">http://mqbench.tech/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+</ul>

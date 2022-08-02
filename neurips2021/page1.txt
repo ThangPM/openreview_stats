@@ -1,0 +1,1669 @@
+<ul class="list-unstyled submissions-list">
+    <li class="note " data-id="hhKA5k0oVy5" data-number="173">
+        <h4>
+          <a href="/forum?id=hhKA5k0oVy5">
+              Variance-Aware Machine Translation Test Sets
+          </a>
+
+
+            <a href="/pdf?id=hhKA5k0oVy5" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Runzhe_Zhan1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Runzhe_Zhan1">Runzhe Zhan</a>, <a href="/profile?id=~Xuebo_Liu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xuebo_Liu1">Xuebo Liu</a>, <a href="/profile?id=~Derek_F._Wong1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Derek_F._Wong1">Derek F. Wong</a>, <a href="/profile?id=~Lidia_S._Chao2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Lidia_S._Chao2">Lidia S. Chao</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 15 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">14 Replies</span>
+
+
+        </div>
+
+          <a href="#hhKA5k0oVy5-details-760" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="hhKA5k0oVy5-details-760"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Machine Translation, Evaluation, Test Sets</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We release 70 small and discriminative test sets for machine translation evaluation.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We release 70 small and discriminative test sets for machine translation (MT) evaluation called variance-aware test sets (VAT), covering 35 translation directions from WMT16 to WMT20 competitions. VAT is automatically created by a novel variance-aware filtering method that filters the indiscriminative test instances of the current MT benchmark without any human labor. Experimental results show that VAT outperforms the original WMT benchmark in terms of the correlation with human judgment across mainstream language pairs and test sets. Further analysis on the properties of VAT reveals the challenging linguistic features (e.g., translation of low-frequency words and proper nouns) for the competitive MT systems, providing guidance for constructing future MT test sets. The test sets and the code for preparing variance-aware MT test sets are freely available at https://github.com/NLP2CT/Variance-Aware-MT-Test-Sets.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=hhKA5k0oVy5&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/NLP2CT/Variance-Aware-MT-Test-Sets" target="_blank" rel="nofollow noreferrer">https://github.com/NLP2CT/Variance-Aware-MT-Test-Sets</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/NLP2CT/Variance-Aware-MT-Test-Sets" target="_blank" rel="nofollow noreferrer">https://github.com/NLP2CT/Variance-Aware-MT-Test-Sets</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">The variance-aware test sets were created based on the original WMT test set. Thus, we follow the original data licensing plan already stated by WMT organizers, which is that “The data released for the WMT news translation task can be freely used for research purposes, we just ask that you cite the WMT shared task overview paper, and respect any additional citation requirements on the individual data sets. For other uses of the data, you should consult with original owners of the data sets.” (quoted from the “LICENSING OF DATA” part in the WMT official website).</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="-wVVl_UPr8" data-number="172">
+        <h4>
+          <a href="/forum?id=-wVVl_UPr8">
+              The PAIR-R24M Dataset for Multi-animal 3D Pose Estimation
+          </a>
+
+
+            <a href="/pdf?id=-wVVl_UPr8" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Jesse_D_Marshall1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jesse_D_Marshall1">Jesse D Marshall</a>, <a href="/profile?id=~Ugne_Klibaite1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ugne_Klibaite1">Ugne Klibaite</a>, <a href="/profile?email=agellis%40fas.harvard.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="agellis@fas.harvard.edu">amanda gellis</a>, <a href="/profile?id=~Diego_E_Aldarondo1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Diego_E_Aldarondo1">Diego E Aldarondo</a>, <a href="/profile?id=~Bence_Olveczky1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Bence_Olveczky1">Bence Olveczky</a>, <a href="/profile?id=~Timothy_W_DUNN1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Timothy_W_DUNN1">Timothy W DUNN</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">7 Replies</span>
+
+
+        </div>
+
+          <a href="#-wVVl_UPr8-details-279" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="-wVVl_UPr8-details-279"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Animal Behavior, Pose Estimation, Multi-agent, Dataset, Motion Capture</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">A 24 million frame database of video and 3D pose for interacting pairs of laboratory rats.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Understanding the biological basis of social and collective behaviors in animals is a key goal of the life sciences, and may yield important insights for engineering intelligent multi-agent systems. A critical step in interrogating the mechanisms underlying social behaviors is a precise readout of the 3D pose of interacting animals. While approaches for multi-animal pose estimation are beginning to emerge, they remain challenging to compare due to the lack of standardized training and benchmark datasets. Here we introduce the PAIR-R24M (Paired Acquisition of Interacting oRganisms - Rat) dataset for multi-animal 3D pose estimation, which contains 24.3 million frames of RGB video and 3D ground-truth motion capture of dyadic interactions in laboratory rats. PAIR-R24M contains data from 18 distinct pairs of rats and 24 different viewpoints. We annotated the data with 11 behavioral labels and 3 interaction categories to facilitate benchmarking in rare but challenging behaviors. To establish a baseline for markerless multi-animal 3D pose estimation, we developed a multi-animal extension of DANNCE, a recently published network for 3D pose estimation in freely behaving laboratory animals. As the first large multi-animal 3D pose estimation dataset, PAIR-R24M will help advance 3D animal tracking approaches and aid in elucidating the neural basis of social behaviors.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=-wVVl_UPr8&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587" target="_blank" rel="nofollow noreferrer">https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="SnC9rUeqiqd" data-number="167">
+        <h4>
+          <a href="/forum?id=SnC9rUeqiqd">
+              HiRID-ICU-Benchmark --- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data
+          </a>
+
+
+            <a href="/pdf?id=SnC9rUeqiqd" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Hugo_Y%C3%A8che1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Hugo_Yèche1">Hugo Yèche</a>, <a href="/profile?id=~Rita_Kuznetsova1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Rita_Kuznetsova1">Rita Kuznetsova</a>, <a href="/profile?id=~Marc_Zimmermann1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Marc_Zimmermann1">Marc Zimmermann</a>, <a href="/profile?id=~Matthias_H%C3%BCser1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Matthias_Hüser1">Matthias Hüser</a>, <a href="/profile?id=~Xinrui_Lyu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xinrui_Lyu1">Xinrui Lyu</a>, <a href="/profile?id=~Martin_Faltys2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Martin_Faltys2">Martin Faltys</a>, <a href="/profile?id=~Gunnar_Ratsch1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Gunnar_Ratsch1">Gunnar Ratsch</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 14 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#SnC9rUeqiqd-details-514" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="SnC9rUeqiqd-details-514"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Benchmark, Intensive Care Unit, Time Series, Patient Monitoring</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">A standardized benchmark for ICU-related health monitoring task.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">The recent success of machine learning methods applied to time series collected from Intensive Care Units (ICU) exposes the lack of standardized machine learning benchmarks for developing and comparing such methods. While raw datasets, such as MIMIC-IV or eICU, can be freely accessed on Physionet, the choice of tasks and pre-processing is often chosen ad-hoc for each publication, limiting comparability across publications. In this work, we aim to improve this situation by providing a  benchmark covering a large spectrum of ICU-related tasks. Using the HiRID dataset, we define multiple clinically relevant tasks developed in collaboration with clinicians.  In addition, we provide a reproducible end-to-end pipeline to construct both data and labels. Finally, we provide an in-depth analysis of current state-of-the-art sequence modeling methods, highlighting some limitations of deep learning approaches for this type of data. With this benchmark, we hope to give the research community the possibility of a fair comparison of their work.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=SnC9rUeqiqd&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/ratschlab/HIRID-ICU-Benchmark/" target="_blank" rel="nofollow noreferrer">https://github.com/ratschlab/HIRID-ICU-Benchmark/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/ratschlab/HIRID-ICU-Benchmark/" target="_blank" rel="nofollow noreferrer">https://github.com/ratschlab/HIRID-ICU-Benchmark/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">
+        MIT License
+
+        Copyright (c) 2021, ETH Zurich, Biomedical Informatics Group; ratschlab
+
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="skFwlyefkWJ" data-number="164">
+        <h4>
+          <a href="/forum?id=skFwlyefkWJ">
+              MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research
+          </a>
+
+
+            <a href="/pdf?id=skFwlyefkWJ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Mikayel_Samvelyan1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Mikayel_Samvelyan1">Mikayel Samvelyan</a>, <a href="/profile?id=~Robert_Kirk1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Robert_Kirk1">Robert Kirk</a>, <a href="/profile?id=~Vitaly_Kurin1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Vitaly_Kurin1">Vitaly Kurin</a>, <a href="/profile?id=~Jack_Parker-Holder1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jack_Parker-Holder1">Jack Parker-Holder</a>, <a href="/profile?id=~Minqi_Jiang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Minqi_Jiang1">Minqi Jiang</a>, <a href="/profile?id=~Eric_Hambro1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Eric_Hambro1">Eric Hambro</a>, <a href="/profile?id=~Fabio_Petroni2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Fabio_Petroni2">Fabio Petroni</a>, <a href="/profile?id=~Heinrich_Kuttler1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Heinrich_Kuttler1">Heinrich Kuttler</a>, <a href="/profile?id=~Edward_Grefenstette1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Edward_Grefenstette1">Edward Grefenstette</a>, <a href="/profile?id=~Tim_Rockt%C3%A4schel1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Tim_Rocktäschel1">Tim Rocktäschel</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 14 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">14 Replies</span>
+
+
+        </div>
+
+          <a href="#skFwlyefkWJ-details-176" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="skFwlyefkWJ-details-176"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">MiniHack is a powerful sandbox framework for easily designing novel environments for reinforcement learning research. </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Progress in deep reinforcement learning (RL) is heavily driven by the availability of challenging benchmarks used for training agents. However, benchmarks that are widely adopted by the community are not explicitly designed for evaluating specific capabilities of RL methods. While there exist environments for assessing particular open problems in RL (such as exploration, transfer learning, unsupervised environment design, or even language-assisted RL), it is generally difficult to extend these to richer, more complex environments once research goes beyond proof-of-concept results. We present MiniHack, a powerful sandbox framework for easily designing novel RL environments. MiniHack is a one-stop shop for RL experiments with environments ranging from small rooms to complex, procedurally generated worlds. By leveraging the full set of entities and environment dynamics from NetHack, one of the richest grid-based video games, MiniHack allows designing custom RL testbeds that are fast and convenient to use. With this sandbox framework, novel environments can be designed easily, either using a human-readable description language or a simple Python interface. In addition to a variety of RL tasks and baselines, MiniHack can wrap existing RL benchmarks and provide ways to seamlessly add additional complexity.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/facebookresearch/minihack" target="_blank" rel="nofollow noreferrer">https://github.com/facebookresearch/minihack</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=skFwlyefkWJ&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/facebookresearch/minihack" target="_blank" rel="nofollow noreferrer">https://github.com/facebookresearch/minihack</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="BwzYI-KaHdr" data-number="163">
+        <h4>
+          <a href="/forum?id=BwzYI-KaHdr">
+              PASS: An ImageNet replacement for self-supervised pretraining without humans
+          </a>
+
+
+            <a href="/pdf?id=BwzYI-KaHdr" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Yuki_M_Asano1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yuki_M_Asano1">Yuki M Asano</a>, <a href="/profile?id=~Christian_Rupprecht1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Christian_Rupprecht1">Christian Rupprecht</a>, <a href="/profile?id=~Andrew_Zisserman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Andrew_Zisserman1">Andrew Zisserman</a>, <a href="/profile?id=~Andrea_Vedaldi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Andrea_Vedaldi1">Andrea Vedaldi</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 27 Sept 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#BwzYI-KaHdr-details-614" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="BwzYI-KaHdr-details-614"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">computer vision, self-supervised learning, privacy, dataset</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We introduce PASS, a large-scale image dataset that does not include any humans, and show that it can be used for high-quality model pretraning while significantly reducing privacy concerns.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Computer vision has long relied on ImageNet and other large datasets of images sampled from the Internet for pretraining models. However, these datasets have ethical and technical shortcomings, such as containing personal information taken without consent, unclear license usage, biases, and, in some cases, even problematic image content. On the other hand, state-of-the-art pretraining is nowadays obtained with unsupervised methods, meaning that labelled datasets such as ImageNet may not be necessary, or perhaps not even optimal, for model pretraining. We thus propose an unlabelled dataset PASS: Pictures without humAns for Self-Supervision. PASS only contains images with CC-BY license and complete attribution metadata, addressing the copyright issue. Most importantly, it contains no images of people at all, and also avoids other types of images that are problematic for data protection or ethics. We show that PASS can be used for pretraining with methods such as MoCo-v2, SwAV and DINO. In the transfer learning setting, it yields similar downstream performances to ImageNet pretraining even on tasks that involve humans, such as human pose estimation. PASS does not make existing datasets obsolete, as for instance it is insufficient for benchmarking. However, it shows that model pretraining is often possible while using safer data, and it also provides the basis for a more robust evaluation of pretraining methods.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=BwzYI-KaHdr&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">For downloading instructions please visit https://www.robots.ox.ac.uk/~vgg/research/pass/ </span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="yJyIjWyPJgs" data-number="153">
+        <h4>
+          <a href="/forum?id=yJyIjWyPJgs">
+              Towards a robust experimental framework and benchmark for lifelong language learning
+          </a>
+
+
+            <a href="/pdf?id=yJyIjWyPJgs" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Aman_Hussain1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Aman_Hussain1">Aman Hussain</a>, <a href="/profile?id=~Nithin_Holla1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nithin_Holla1">Nithin Holla</a>, <a href="/profile?id=~Pushkar_Mishra1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Pushkar_Mishra1">Pushkar Mishra</a>, <a href="/profile?id=~Helen_Yannakoudakis1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Helen_Yannakoudakis1">Helen Yannakoudakis</a>, <a href="/profile?id=~Ekaterina_Shutova1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ekaterina_Shutova1">Ekaterina Shutova</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 07 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">8 Replies</span>
+
+
+        </div>
+
+          <a href="#yJyIjWyPJgs-details-27" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="yJyIjWyPJgs-details-27"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">lifelong learning, continual learning, natural language processing</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">In lifelong learning, a model learns different tasks sequentially throughout its lifetime. State-of-the-art deep learning models, however, struggle to generalize in this setting and suffer from catastrophic forgetting of old tasks when learning new ones. While a number of approaches have been developed in an attempt to ameliorate this problem, there are no established, unified or generalized frameworks for rigorous evaluations of proposed solutions; a problem which is particularly pronounced in the domain of NLP. The few existing benchmarks are typically limited to a specific flavor of lifelong learning -- continual open-set classification -- where new classes, as opposed to tasks, are learned incrementally. Moreover, the only general lifelong learning benchmark combines a multi-label classification setup with a multi-class classification setup resulting in misleading gradients during training. We empirically demonstrate that the catastrophic forgetting observed here can be attributed to the experimental design rather than to any inherent modeling limitations. To address these issues, we propose an experimental framework for true, general lifelong learning in NLP. Using this framework, we develop a comprehensive suite of benchmarks that target different properties of lifelong learning (e.g., forgetting or intransigence); experiment with diverse facets of language learning: multi-domain, multilingual and different levels of linguistic hierarchy; and present a continuous evaluation scheme under a new metric: Area Under the Lifelong Test Curve. Our framework reveals shortcomings of prevalent memory-based solutions, demonstrating they are unable to outperform a simple experience replay baseline under the realistic lifelong learning setup.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://amanhussain.com/lifelong-learning/" target="_blank" rel="nofollow noreferrer">https://amanhussain.com/lifelong-learning/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">To address critical flaws &amp; limitations in the contemporary experiments, we design an experimental framework and develop a suite of benchmarks for lifelong learing in NLP.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=yJyIjWyPJgs&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="XccDXrDNLek" data-number="149">
+        <h4>
+          <a href="/forum?id=XccDXrDNLek">
+              Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
+          </a>
+
+
+            <a href="/pdf?id=XccDXrDNLek" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Curtis_G_Northcutt1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Curtis_G_Northcutt1">Curtis G Northcutt</a>, <a href="/profile?id=~Anish_Athalye1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Anish_Athalye1">Anish Athalye</a>, <a href="/profile?id=~Jonas_Mueller1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jonas_Mueller1">Jonas Mueller</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#XccDXrDNLek-details-860" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="XccDXrDNLek-details-860"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">label errors, datasets, benchmarks, data-centric, confident learning, noisy labels, dataset curation</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We discover that label errors are pervasive across 10 popular benchmark test sets used in most ML research; we release corrected test sets and study when these label errors destabilize benchmarks.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We identify label errors in the test sets of 10 of the most commonly-used computer vision, natural language, and audio datasets, and subsequently study the potential for these label errors to affect benchmark results.  Errors in test sets are numerous and widespread: we estimate an average of at least 3.3% errors across the 10 datasets, where for example label errors comprise at least 6% of the ImageNet validation set. Putative label errors are identified using confident learning algorithms and then human-validated via crowdsourcing (51% of the algorithmically-flagged candidates are indeed erroneously labeled, on average across the datasets).  Traditionally, machine learning practitioners choose which model to deploy based on test accuracy -- our findings advise caution here, proposing that judging models over correctly labeled test sets may be more useful, especially for noisy real-world datasets.  Surprisingly, we find that lower capacity models may be practically more useful than higher capacity models in real-world datasets with high proportions of erroneously labeled data.  For example, on ImageNet with corrected labels: ResNet-18 outperforms ResNet-50 if the prevalence of originally mislabeled test examples increases by just 6%.  On CIFAR-10 with corrected labels: VGG-11 outperforms VGG-19 if the prevalence of originally mislabeled test examples increases by just 5%.  Test set errors across the 10 datasets can be viewed at https://labelerrors.com and all label errors can be reproduced by https://github.com/cleanlab/label-errors.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=XccDXrDNLek&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/cleanlab/label-errors" target="_blank" rel="nofollow noreferrer">https://github.com/cleanlab/label-errors</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Uk2mymgn_LZ" data-number="147">
+        <h4>
+          <a href="/forum?id=Uk2mymgn_LZ">
+              DABS: a Domain-Agnostic Benchmark for Self-Supervised Learning
+          </a>
+
+
+            <a href="/pdf?id=Uk2mymgn_LZ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Alex_Tamkin1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Alex_Tamkin1">Alex Tamkin</a>, <a href="/profile?email=vliu15%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="vliu15@stanford.edu">Vincent Liu</a>, <a href="/profile?id=~Rongfei_Lu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Rongfei_Lu1">Rongfei Lu</a>, <a href="/profile?id=~Daniel_Fein1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Daniel_Fein1">Daniel Fein</a>, <a href="/profile?email=colinrs%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="colinrs@stanford.edu">Colin Schultz</a>, <a href="/profile?id=~Noah_Goodman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Noah_Goodman1">Noah Goodman</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 09 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">6 Replies</span>
+
+
+        </div>
+
+          <a href="#Uk2mymgn_LZ-details-671" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="Uk2mymgn_LZ-details-671"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">domain agnostic, self-supervised learning, benchmark, representation learning, unsupervised learning, transfer learning</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present a benchmark for the task of domain-agnostic self-supervised learning, along with two baseline algorithms based on transformers</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Self-supervised learning algorithms, including BERT and SimCLR, have enabled significant strides in fields like natural language processing, computer vision, and speech processing. However, these algorithms are domain-specific, meaning that new self-supervised learning algorithms must be developed for each new setting, including myriad healthcare, scientific, and multimodal domains. To catalyze progress toward domain-agnostic methods, we introduce DABS: a Domain-Agnostic Benchmark for Self-supervised learning. To perform well on DABS, an algorithm is evaluated on seven diverse domains: natural images, multichannel sensor data, English text, speech recordings, multilingual text, chest x-rays, and images with text descriptions. Each domain contains an unlabeled dataset for pretraining; the model is then is scored based on its downstream performance on a set of labeled tasks in the domain. We also present e-Mix and ShED: two baseline domain-agnostic algorithms; their relatively modest performance demonstrates that significant progress is needed before self-supervised learning is an out-of-the-box solution for arbitrary domains. Code for benchmark datasets and baseline algorithms is available at https://github.com/alextamkin/dabs.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://dabs.stanford.edu/" target="_blank" rel="nofollow noreferrer">https://dabs.stanford.edu/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value ">dabs.stanford.edu</span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">MIT</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="IsK8iKbL-I" data-number="146">
+        <h4>
+          <a href="/forum?id=IsK8iKbL-I">
+              Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning
+          </a>
+
+
+            <a href="/pdf?id=IsK8iKbL-I" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Cameron_Voloshin1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Cameron_Voloshin1">Cameron Voloshin</a>, <a href="/profile?id=~Hoang_Minh_Le1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Hoang_Minh_Le1">Hoang Minh Le</a>, <a href="/profile?id=~Nan_Jiang2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nan_Jiang2">Nan Jiang</a>, <a href="/profile?id=~Yisong_Yue1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yisong_Yue1">Yisong Yue</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">7 Replies</span>
+
+
+        </div>
+
+          <a href="#IsK8iKbL-I-details-811" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="IsK8iKbL-I-details-811"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">reinforcement learning, off-policy evaluation, benchmark, OPE, RL, off-policy policy evaluation, empirical study</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We offer an experimental benchmark and empirical study for off-policy policy evaluation in reinforcement learning</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We offer an experimental benchmark and empirical study for off-policy policy evaluation (OPE) in reinforcement learning, which is a key problem in many safety critical applications. Given the increasing interest in deploying learning-based methods, there has been a flurry of recent proposals for OPE method, leading to a need for standardized empirical analyses.  Our work takes a strong focus on diversity of experimental design to enable stress testing of OPE methods.  We provide a comprehensive benchmarking suite to study the interplay of different attributes on method performance. We distill the results into a summarized set of guidelines for OPE in practice. Our software package, the Caltech OPE Benchmarking Suite (COBS), is open-sourced and we invite interested researchers to further contribute to the benchmark.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=IsK8iKbL-I&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/clvoloshin/COBS" target="_blank" rel="nofollow noreferrer">https://github.com/clvoloshin/COBS</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="bKBhQhPeKaF" data-number="144">
+        <h4>
+          <a href="/forum?id=bKBhQhPeKaF">
+              Benchmark for Compositional Text-to-Image Synthesis
+          </a>
+
+
+            <a href="/pdf?id=bKBhQhPeKaF" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Dong_Huk_Park2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dong_Huk_Park2">Dong Huk Park</a>, <a href="/profile?id=~Samaneh_Azadi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Samaneh_Azadi1">Samaneh Azadi</a>, <a href="/profile?id=~Xihui_Liu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xihui_Liu1">Xihui Liu</a>, <a href="/profile?id=~Trevor_Darrell2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Trevor_Darrell2">Trevor Darrell</a>, <a href="/profile?id=~Anna_Rohrbach1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Anna_Rohrbach1">Anna Rohrbach</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 15 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#bKBhQhPeKaF-details-484" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="bKBhQhPeKaF-details-484"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">text-to-image synthesis, text-to-image generation, compositionality</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">New benchmark for evaluating generalization to unseen adjective-noun compositions in text-to-image synthesis</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Rapid progress in text-to-image generation has been often measured by Frechet Inception Distance (FID) to capture how realistic the generated images are, or by R-Precision to assess if they are well conditioned on the given textual descriptions. However, a systematic study on how well the text-to-image synthesis models generalize to novel word compositions is missing. In this work, we focus on assessing how true the generated images are to the input texts in this particularly challenging scenario of novel compositions. We present the first systematic study of text-to-image generation on zero-shot compositional splits targeting two scenarios, unseen object-color (e.g. "blue petal") and object-shape (e.g. "long beak") phrases. We create new benchmarks building on the existing CUB and Oxford Flowers datasets. We also propose a new metric, based on a powerful vision-and-language CLIP model, which we leverage to compute R-Precision. This is in contrast to the common approach where the same retrieval model is used during training and evaluation, potentially leading to biased behavior. We experiment with several recent text-to-image generation methods. Our automatic and human evaluation confirm that there is indeed a gap in performance when encountering previously unseen phrases. We show that the image correctness rather than purely perceptual quality is especially impacted. Finally, our CLIP-R-Precision metric demonstrates better correlation with human judgments than the commonly used metric.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=bKBhQhPeKaF&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/Seth-Park/comp-t2i-dataset" target="_blank" rel="nofollow noreferrer">https://github.com/Seth-Park/comp-t2i-dataset</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="cIrPX-Sn5n" data-number="142">
+        <h4>
+          <a href="/forum?id=cIrPX-Sn5n">
+              Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks
+          </a>
+
+
+            <a href="/pdf?id=cIrPX-Sn5n" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Georgios_Papoudakis1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Georgios_Papoudakis1">Georgios Papoudakis</a>, <a href="/profile?id=~Filippos_Christianos1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Filippos_Christianos1">Filippos Christianos</a>, <a href="/profile?id=~Lukas_Sch%C3%A4fer1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Lukas_Schäfer1">Lukas Schäfer</a>, <a href="/profile?id=~Stefano_V_Albrecht1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Stefano_V_Albrecht1">Stefano V Albrecht</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">13 Replies</span>
+
+
+        </div>
+
+          <a href="#cIrPX-Sn5n-details-296" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="cIrPX-Sn5n-details-296"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Multi-agent deep reinforcement learning (MARL) suffers from a lack of commonly-used evaluation tasks and criteria, making comparisons between approaches difficult. In this work, we provide a systematic evaluation and comparison of three different classes of MARL algorithms (independent learning, centralised multi-agent policy gradient, value decomposition) in a diverse range of cooperative multi-agent learning tasks. Our experiments serve as a reference for the expected performance of algorithms across different learning tasks, and we provide insights regarding the effectiveness of different learning approaches. We open-source EPyMARL, which extends the PyMARL codebase to include additional algorithms and allow for flexible configuration of algorithm implementation details such as parameter sharing. Finally, we open-source two environments for multi-agent research which focus on coordination under sparse rewards.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=cIrPX-Sn5n&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">https://github.com/uoe-agents/epymarl  https://github.com/uoe-agents/lb-foraging https://github.com/uoe-agents/robotic-warehouse</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="VjJxBi1p9zh" data-number="139">
+        <h4>
+          <a href="/forum?id=VjJxBi1p9zh">
+              RedCaps: Web-curated image-text data created by the people, for the people
+          </a>
+
+
+            <a href="/pdf?id=VjJxBi1p9zh" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Karan_Desai1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Karan_Desai1">Karan Desai</a>, <a href="/profile?id=~Gaurav_Kaul1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Gaurav_Kaul1">Gaurav Kaul</a>, <a href="/profile?id=~Zubin_Trivadi_Aysola1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Zubin_Trivadi_Aysola1">Zubin Trivadi Aysola</a>, <a href="/profile?id=~Justin_Johnson1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Justin_Johnson1">Justin Johnson</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 15 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">14 Replies</span>
+
+
+        </div>
+
+          <a href="#VjJxBi1p9zh-details-847" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="VjJxBi1p9zh-details-847"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">image-text dataset, vision-and-language, image captioning, vision pre-training</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present RedCaps -- a large-scale dataset of 12M image-text pairs collected from Reddit.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Large datasets of paired images and text have become increasingly popular for learning generic representations for vision and vision-and-language tasks. Such datasets have been built by querying search engines or collecting HTML alt-text – since web data is noisy, they require complex filtering pipelines to maintain quality. We explore alternate data sources to collect high quality data with minimal filtering. We introduce RedCaps – a large-scale dataset of 12M image-text pairs collected from Reddit. Images and captions from Reddit depict and describe a wide variety of objects and scenes. We collect data from a manually curated set of subreddits, which give coarse image labels and allow us to steer the dataset composition without labeling individual instances. We show that captioning models trained on RedCaps produce rich and varied captions preferred by humans, and learn visual representations that transfer to many downstream tasks.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=VjJxBi1p9zh&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://redcaps.xyz" target="_blank" rel="nofollow noreferrer">https://redcaps.xyz</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://redcaps.xyz" target="_blank" rel="nofollow noreferrer">https://redcaps.xyz</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">See https://redcaps.xyz/download </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="Pq8FBz0gZHY" data-number="138">
+        <h4>
+          <a href="/forum?id=Pq8FBz0gZHY">
+              Generating Datasets of 3D Garments with Sewing Patterns
+          </a>
+
+
+            <a href="/pdf?id=Pq8FBz0gZHY" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Maria_Korosteleva1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Maria_Korosteleva1">Maria Korosteleva</a>, <a href="/profile?id=~Sung-Hee_Lee1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Sung-Hee_Lee1">Sung-Hee Lee</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 12 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">9 Replies</span>
+
+
+        </div>
+
+          <a href="#Pq8FBz0gZHY-details-598" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="Pq8FBz0gZHY-details-598"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Garment Dataset, Sewing Patterns, Scan Imitation, 3D Deep Learning</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We are presenting data generation pipeline of 3D garments with sewing patterns accompanied by a dataset of 20000+ garment designs.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Garments are ubiquitous in both real and many of the virtual worlds. They are highly deformable objects, exhibit an immense variety of designs and shapes, and yet, most garments are created from a set of regularly shaped flat pieces. Exploration of garment structure presents a peculiar case for an object structure estimation task and might prove useful for downstream tasks of neural 3D garment modeling and reconstruction by providing strong prior on garment shapes. To facilitate research in these directions, we propose a method for generating large synthetic datasets of 3D garment designs and their sewing patterns. Our method consists of a flexible description structure for specifying parametric sewing pattern templates and the automatic generation pipeline to produce garment 3D models with little-to-none manual intervention. To add realism, the pipeline additionally creates corrupted versions of the final meshes that imitate artifacts of 3D scanning.
+
+        With this pipeline, we created the first large-scale synthetic dataset of 3D garment models with their sewing patterns. The dataset contains more than 20000 garment design variations produced from 19 different base types. Seven of these garment types are specifically designed to target evaluation of the generalization across garment sewing pattern topologies.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=Pq8FBz0gZHY&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://doi.org/10.5281/zenodo.5267549" target="_blank" rel="nofollow noreferrer">https://doi.org/10.5281/zenodo.5267549</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://doi.org/10.5281/zenodo.5267549" target="_blank" rel="nofollow noreferrer">https://doi.org/10.5281/zenodo.5267549</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="fe_hCc4RBrg" data-number="137">
+        <h4>
+          <a href="/forum?id=fe_hCc4RBrg">
+              Programming Puzzles
+          </a>
+
+
+            <a href="/pdf?id=fe_hCc4RBrg" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Tal_Schuster1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Tal_Schuster1">Tal Schuster</a>, <a href="/profile?id=~Ashwin_Kalyan6" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ashwin_Kalyan6">Ashwin Kalyan</a>, <a href="/profile?id=~Alex_Polozov1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Alex_Polozov1">Alex Polozov</a>, <a href="/profile?id=~Adam_Tauman_Kalai1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Adam_Tauman_Kalai1">Adam Tauman Kalai</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 07 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">13 Replies</span>
+
+
+        </div>
+
+          <a href="#fe_hCc4RBrg-details-323" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="fe_hCc4RBrg-details-323"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">programming puzzles, program synthesis, language models, GPT-3, Python, coding, problems, dataset</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">A new type of programming challenge with a diverse set of puzzles (from basics to open problems) defined solely in Python code and supporting self-training of solvers (e.g. program synthesis and language models) for evaluating programming proficiency</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We introduce a new type of programming challenge called programming puzzles, as an objective and comprehensive evaluation of program synthesis, and release an open-source dataset of Python Programming Puzzles (P3). Each puzzle is defined by a short Python program <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="26" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></mjx-assistive-mml></mjx-container>, and the goal is to find an input which makes <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="27" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></mjx-assistive-mml></mjx-container> return True. The puzzles are objective in that each one is specified entirely by the source code of its verifier <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="28" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></mjx-assistive-mml></mjx-container>, so evaluating <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="29" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></mjx-assistive-mml></mjx-container> is all that is needed to test a candidate solution. They do not require an answer key or input/output examples, nor do they depend on natural language understanding. The dataset is comprehensive in that it spans problems of a range of difficulties and domains, ranging from trivial string manipulation problems, to classic programming puzzles (e.g., Tower of Hanoi), to interview/competitive-programming problems (e.g., dynamic programming), to longstanding open problems in algorithms and mathematics (e.g., factoring). We develop baseline enumerative program synthesis, GPT-3 and Codex solvers that are capable of solving puzzles---even without access to any reference solutions---by learning from their own past solutions. Codex performs best, solving up to 18% of 397 test problems with a single try and 80% of the problems with 1,000 tries per problem. In a small user study, we find a positive correlation between puzzle-solving performance and coding experience, and between the puzzle difficulty for humans and AI solvers. Therefore, further improvements on P3 could have a significant impact on many program synthesis areas.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=fe_hCc4RBrg&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/microsoft/PythonProgrammingPuzzles" target="_blank" rel="nofollow noreferrer">https://github.com/microsoft/PythonProgrammingPuzzles</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="NevK78-K4bZ" data-number="135">
+        <h4>
+          <a href="/forum?id=NevK78-K4bZ">
+              The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions
+          </a>
+
+
+            <a href="/pdf?id=NevK78-K4bZ" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Jennifer_J._Sun1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jennifer_J._Sun1">Jennifer J. Sun</a>, <a href="/profile?id=~Tomomi_Karigo1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Tomomi_Karigo1">Tomomi Karigo</a>, <a href="/profile?id=~Dipam_Chakraborty1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dipam_Chakraborty1">Dipam Chakraborty</a>, <a href="/profile?id=~Sharada_Mohanty1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Sharada_Mohanty1">Sharada Mohanty</a>, <a href="/profile?id=~Benjamin_Wild1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Benjamin_Wild1">Benjamin Wild</a>, <a href="/profile?id=~Quan_Sun2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Quan_Sun2">Quan Sun</a>, <a href="/profile?id=~Chen_Chen30" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Chen_Chen30">Chen Chen</a>, <a href="/profile?id=~David_Anderson10" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~David_Anderson10">David Anderson</a>, <a href="/profile?id=~Pietro_Perona1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Pietro_Perona1">Pietro Perona</a>, <a href="/profile?id=~Yisong_Yue1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yisong_Yue1">Yisong Yue</a>, <a href="/profile?id=~Ann_Kennedy1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ann_Kennedy1">Ann Kennedy</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">08 Jun 2021 (modified: 06 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">8 Replies</span>
+
+
+        </div>
+
+          <a href="#NevK78-K4bZ-details-947" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="NevK78-K4bZ-details-947"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">behavior modeling, trajectory data, animal behavior</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">CalMS21 is a multi-agent dataset consisting of trajectory data annotated at each frame with behavior labels from domain experts.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Multi-agent behavior modeling aims to understand the interactions that occur between agents. We present a multi-agent dataset from behavioral neuroscience, the Caltech Mouse Social Interactions (CalMS21) Dataset. Our dataset consists of trajectory data of social interactions, recorded from videos of freely behaving mice in a standard resident-intruder assay. To help accelerate behavioral studies, the CalMS21 dataset provides benchmarks to evaluate the performance of automated behavior classification methods in three settings: (1) for training on large behavioral datasets all annotated by a single annotator, (2) for style transfer to learn inter-annotator differences in behavior definitions, and (3) for learning of new behaviors of interest given limited training data. The dataset consists of 6 million frames of unlabeled tracked poses of interacting mice, as well as over 1 million frames with tracked poses and corresponding frame-level behavior annotations. The challenge of our dataset is to be able to classify behaviors accurately using both labeled and unlabeled tracking data, as well as being able to generalize to new settings. </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=NevK78-K4bZ&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">Dataset Link: https://data.caltech.edu/records/1991. Baseline code link: https://gitlab.aicrowd.com/aicrowd/research/mab-e/mab-e-baselines.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://sites.google.com/view/computational-behavior/our-datasets/calms21-dataset" target="_blank" rel="nofollow noreferrer">https://sites.google.com/view/computational-behavior/our-datasets/calms21-dataset</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">CC-BY-NC-SA</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="3_hgF1NAXU7" data-number="132">
+        <h4>
+          <a href="/forum?id=3_hgF1NAXU7">
+              CrowdSpeech and Vox DIY: Benchmark Dataset for Crowdsourced Audio Transcription
+          </a>
+
+
+            <a href="/pdf?id=3_hgF1NAXU7" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Nikita_Pavlichenko1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nikita_Pavlichenko1">Nikita Pavlichenko</a>, <a href="/profile?id=~Ivan_Stelmakh2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ivan_Stelmakh2">Ivan Stelmakh</a>, <a href="/profile?id=~Dmitry_Ustalov1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Dmitry_Ustalov1">Dmitry Ustalov</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 20 Oct 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">4 Replies</span>
+
+
+        </div>
+
+          <a href="#3_hgF1NAXU7-details-808" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="3_hgF1NAXU7-details-808"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">crowdsourcing, speech recognition, aggregation</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Domain-specific data is the crux of the successful transfer of machine learning systems from benchmarks to real life. In simple problems such as image classification, crowdsourcing has become one of the standard tools for cheap and time-efficient data collection: thanks in large part to advances in research on aggregation methods. However, the applicability of crowdsourcing to more complex tasks  (e.g., speech recognition) remains limited due to the lack of principled aggregation methods for these modalities. The main obstacle towards designing aggregation methods for more advanced applications is the absence of training data, and in this work, we focus on bridging this gap in speech recognition. For this, we collect and release CrowdSpeech --- the first publicly available large-scale dataset of crowdsourced audio transcriptions. Evaluation of existing and novel aggregation methods on our data shows room for improvement, suggesting that our work may entail the design of better algorithms. At a higher level, we also contribute to the more general challenge of developing the methodology for reliable data collection via crowdsourcing. In that, we design a principled pipeline for constructing datasets of crowdsourced audio transcriptions in any novel domain. We show its applicability on an under-resourced language by constructing VoxDIY --- a counterpart of CrowdSpeech for the Russian language. We also release the code that allows a full replication of our data collection pipeline and share various insights on best practices of data collection via crowdsourcing.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=3_hgF1NAXU7&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/Toloka/CrowdSpeech" target="_blank" rel="nofollow noreferrer">https://github.com/Toloka/CrowdSpeech</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="VdvDlnnjzIN" data-number="129">
+        <h4>
+          <a href="/forum?id=VdvDlnnjzIN">
+              Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation
+          </a>
+
+
+            <a href="/pdf?id=VdvDlnnjzIN" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~C._Daniel_Freeman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~C._Daniel_Freeman1">C. Daniel Freeman</a>, <a href="/profile?id=~Erik_Frey1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Erik_Frey1">Erik Frey</a>, <a href="/profile?id=~Anton_Raichuk1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Anton_Raichuk1">Anton Raichuk</a>, <a href="/profile?email=sertan%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="sertan@google.com">Sertan Girgin</a>, <a href="/profile?id=~Igor_Mordatch4" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Igor_Mordatch4">Igor Mordatch</a>, <a href="/profile?id=~Olivier_Bachem1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Olivier_Bachem1">Olivier Bachem</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 03 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">5 Replies</span>
+
+
+        </div>
+
+          <a href="#VdvDlnnjzIN-details-760" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="VdvDlnnjzIN-details-760"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">reinforcement learning, physics, differentiable, jax, robotics</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present a new differentiable rigid body physics engine in JAX and several reimplementations of common RL algorithms that can compile to and run on the same accelerator.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">We present Brax, an open source library for \textbf{r}igid \textbf{b}ody simulation with a focus on performance and parallelism on accelerators, written in JAX.  We present results on a suite of tasks inspired by the existing reinforcement learning literature, but remade in our engine.  Additionally, we provide reimplementations of PPO, SAC, ES, and direct policy optimization in JAX that compile alongside our environments, allowing the learning algorithm and the environment processing to occur on the same device, and to scale seamlessly on accelerators.  Finally, we include notebooks that facilitate training of performant policies on common MuJoCo-like tasks in minutes.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/google/brax" target="_blank" rel="nofollow noreferrer">https://github.com/google/brax</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=VdvDlnnjzIN&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="r8IvOsnHchr" data-number="127">
+        <h4>
+          <a href="/forum?id=r8IvOsnHchr">
+              Revisiting Time Series Outlier Detection: Definitions and Benchmarks
+          </a>
+
+
+            <a href="/pdf?id=r8IvOsnHchr" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Kwei-Herng_Lai1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Kwei-Herng_Lai1">Kwei-Herng Lai</a>, <a href="/profile?id=~Daochen_Zha1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Daochen_Zha1">Daochen Zha</a>, <a href="/profile?id=~Junjie_Xu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Junjie_Xu1">Junjie Xu</a>, <a href="/profile?id=~Yue_Zhao13" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yue_Zhao13">Yue Zhao</a>, <a href="/profile?id=~Guanchu_Wang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Guanchu_Wang1">Guanchu Wang</a>, <a href="/profile?id=~Xia_Hu4" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Xia_Hu4">Xia Hu</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 10 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">12 Replies</span>
+
+
+        </div>
+
+          <a href="#r8IvOsnHchr-details-235" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="r8IvOsnHchr-details-235"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">outlier detection, time series data, benchmark</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">Revisiting time series outlier definitions and benchmarking the synthetic criterion and the existing algorithms with a behavior-driven taxonomy.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Time series outlier detection has been extensively studied with many advanced algorithms proposed in the past decade. Despite these efforts, very few studies have investigated how we should benchmark the existing algorithms. In particular, using synthetic datasets for evaluation has become a common practice in the literature, and thus it is crucial to have a general synthetic criterion to benchmark algorithms. This is a non-trivial task because the existing synthetic methods are very different in different applications and the outlier definitions are often ambiguous. To bridge this gap, we propose a behavior-driven taxonomy for time series outliers and categorize outliers into point- and pattern-wise outliers with clear context definitions. Following the new taxonomy, we then present a general synthetic criterion and generate 35 synthetic datasets accordingly. We further identify 4 multivariate real-world datasets from different domains and benchmark 9 algorithms on the synthetic and the real-world datasets. Surprisingly, we observe that some classical algorithms could outperform many recent deep learning approaches. The datasets, pre-processing and synthetic scripts, and the algorithm implementations are made publicly available at https://github.com/datamllab/tods/tree/benchmark</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=r8IvOsnHchr&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/datamllab/tods/tree/benchmark" target="_blank" rel="nofollow noreferrer">https://github.com/datamllab/tods/tree/benchmark</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://github.com/datamllab/tods/tree/benchmark/benchmark" target="_blank" rel="nofollow noreferrer">https://github.com/datamllab/tods/tree/benchmark/benchmark</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">Apache-2.0</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="pY9MHwmrymR" data-number="125">
+        <h4>
+          <a href="/forum?id=pY9MHwmrymR">
+              An Extensible Benchmark Suite for Learning to Simulate Physical Systems
+          </a>
+
+
+            <a href="/pdf?id=pY9MHwmrymR" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Karl_Otness1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Karl_Otness1">Karl Otness</a>, <a href="/profile?id=~Arvi_Gjoka1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Arvi_Gjoka1">Arvi Gjoka</a>, <a href="/profile?id=~Joan_Bruna1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Joan_Bruna1">Joan Bruna</a>, <a href="/profile?id=~Daniele_Panozzo1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Daniele_Panozzo1">Daniele Panozzo</a>, <a href="/profile?id=~Benjamin_Peherstorfer2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Benjamin_Peherstorfer2">Benjamin Peherstorfer</a>, <a href="/profile?email=teseo%40uvic.ca" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="teseo@uvic.ca">Teseo Schneider</a>, <a href="/profile?id=~Denis_Zorin2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Denis_Zorin2">Denis Zorin</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 14 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">14 Replies</span>
+
+
+        </div>
+
+          <a href="#pY9MHwmrymR-details-862" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="pY9MHwmrymR-details-862"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Scientific Computing, Physics and ML, Numerical Integration, Physical Simulation</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We introduce an extensible benchmark to evaluate data-driven physical simulation</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Simulating physical systems is a core component of scientific computing, encompassing a wide range of physical domains and applications. Recently, there has been a surge in data-driven methods to complement traditional numerical simulation methods, motivated by the opportunity to reduce computational costs and/or learn new physical models leveraging access to large collections of data. However, the diversity of problem settings and applications has led to a plethora of approaches, each one evaluated on a different setup and with different evaluation metrics. We introduce a set of benchmark problems to take a step towards unified benchmarks and evaluation protocols. We propose four representative physical systems, as well as a collection of both widely used classical time integrators and representative data-driven methods (kernel-based, MLP, CNN, nearest neighbors). Our framework allows evaluating objectively and systematically the stability, accuracy, and computational efficiency of data-driven methods. Additionally, it is configurable to permit adjustments for accommodating other learning tasks and for establishing a foundation for future developments in machine learning for scientific computing.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=pY9MHwmrymR&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://archive.nyu.edu/handle/2451/63285" target="_blank" rel="nofollow noreferrer">https://archive.nyu.edu/handle/2451/63285</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value ">Updated source code and information on use are available at: https://github.com/karlotness/nn-benchmark
+
+        An archival copy of source code, experiment results, and generated datasets are available for download from the NYU Faculty Digital Archive: https://archive.nyu.edu/handle/2451/63285
+
+        The data loaders implemented in the project source code can be used to load the stored datasets. For specific information on their structure and contents, see the supplementary materials accompanying our paper.
+
+        The script download.sh in the GitHub repository linked above can help download, verify, and reassemble the archived data files.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">The source code produced in this project is available under the MIT license. The text of this license is included in the LICENSE.txt file which accompanies the code.
+
+        Archived datasets, generated files and experiment results are made available under a Creative Commons Attribution 4.0 license (CC BY 4.0).</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="pMWtc5NKd7V" data-number="124">
+        <h4>
+          <a href="/forum?id=pMWtc5NKd7V">
+              RadGraph: Extracting Clinical Entities and Relations from Radiology Reports
+          </a>
+
+
+            <a href="/pdf?id=pMWtc5NKd7V" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Saahil_Jain3" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Saahil_Jain3">Saahil Jain</a>, <a href="/profile?id=~Ashwin_Agrawal1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ashwin_Agrawal1">Ashwin Agrawal</a>, <a href="/profile?id=~Adriel_Saporta1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Adriel_Saporta1">Adriel Saporta</a>, <a href="/profile?id=~Steven_Truong1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Steven_Truong1">Steven Truong</a>, <a href="/profile?email=v.dunguyen%40vinbrain.net" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="v.dunguyen@vinbrain.net">Du Nguyen Duong</a>, <a href="/profile?email=v.tanbui%40vinbrain.net" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="v.tanbui@vinbrain.net">Tan Bui</a>, <a href="/profile?email=pchambon%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="pchambon@stanford.edu">Pierre Chambon</a>, <a href="/profile?id=~Yuhao_Zhang3" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yuhao_Zhang3">Yuhao Zhang</a>, <a href="/profile?id=~Matthew_P._Lungren1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Matthew_P._Lungren1">Matthew P. Lungren</a>, <a href="/profile?id=~Andrew_Y._Ng1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Andrew_Y._Ng1">Andrew Y. Ng</a>, <a href="/profile?id=~Curtis_Langlotz1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Curtis_Langlotz1">Curtis Langlotz</a>, <a href="/profile?id=~Pranav_Rajpurkar1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Pranav_Rajpurkar1">Pranav Rajpurkar</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 30 Oct 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">11 Replies</span>
+
+
+        </div>
+
+          <a href="#pMWtc5NKd7V-details-123" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="pMWtc5NKd7V-details-123"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">natural language processing, radiology, entity and relation extraction, multi-modal, graph</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present RadGraph, a dataset of entities and relations in radiology reports based on a novel information extraction schema.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Extracting structured clinical information from free-text radiology reports can enable the use of radiology report information for a variety of critical healthcare applications. In our work, we present RadGraph, a dataset of entities and relations in full-text chest X-ray radiology reports based on a novel information extraction schema we designed to structure radiology reports. We release a development dataset, which contains board-certified radiologist annotations for 500 radiology reports from the MIMIC-CXR dataset (14,579 entities and 10,889 relations), and a test dataset, which contains two independent sets of board-certified radiologist annotations for 100 radiology reports split equally across the MIMIC-CXR and CheXpert datasets. Using these datasets, we train and test a deep learning model, RadGraph Benchmark, that achieves a micro F1 of 0.82 and 0.73 on relation extraction on the MIMIC-CXR and CheXpert test sets respectively. Additionally, we release an inference dataset, which contains annotations automatically generated by RadGraph Benchmark across 220,763 MIMIC-CXR reports (around 6 million entities and 4 million relations) and 500 CheXpert reports (13,783 entities and 9,908 relations) with mappings to associated chest radiographs. Our freely available dataset can facilitate a wide range of research in medical natural language processing, as well as computer vision and multi-modal learning when linked to chest radiographs.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=pMWtc5NKd7V&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://doi.org/10.13026/hm87-5p47" target="_blank" rel="nofollow noreferrer">https://doi.org/10.13026/hm87-5p47</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="R8CwidgJ0yT" data-number="123">
+        <h4>
+          <a href="/forum?id=R8CwidgJ0yT">
+              The People’s Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage
+          </a>
+
+
+            <a href="/pdf?id=R8CwidgJ0yT" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Daniel_Galvez1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Daniel_Galvez1">Daniel Galvez</a>, <a href="/profile?id=~Greg_Diamos2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Greg_Diamos2">Greg Diamos</a>, <a href="/profile?email=juanciro%40factored.ai" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="juanciro@factored.ai">Juan Manuel Ciro Torres</a>, <a href="/profile?email=juan.ceron%40factored.ai" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="juan.ceron@factored.ai">Juan Felipe Cerón</a>, <a href="/profile?id=~Keith_Achorn1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Keith_Achorn1">Keith Achorn</a>, <a href="/profile?email=anjaligopi23%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="anjaligopi23@gmail.com">Anjali Gopi</a>, <a href="/profile?id=~David_Kanter2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~David_Kanter2">David Kanter</a>, <a href="/profile?id=~Max_Lam1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Max_Lam1">Max Lam</a>, <a href="/profile?id=~Mark_Mazumder1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Mark_Mazumder1">Mark Mazumder</a>, <a href="/profile?id=~Vijay_Janapa_Reddi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Vijay_Janapa_Reddi1">Vijay Janapa Reddi</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 11 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">4 Replies</span>
+
+
+        </div>
+
+          <a href="#R8CwidgJ0yT-details-720" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="R8CwidgJ0yT-details-720"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">speech recognition, dataset, forced alignment, creative commons, supervised learning</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We introduce a large, diverse English speech recognition dataset under a CC-BY-SA license.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">The People’s Speech is a free-to-download 31,400-hour and growing supervised conversational English speech recognition dataset licensed for academic and commercial usage under CC-BY-SA. The data is collected via searching the Internet for appropriately licensed audio data with existing transcriptions. We describe our data collection methodology and release our data collection system under the Apache2.0 license. We show that a model trained on this dataset achieves a 32.17% word error rate on Librispeech’s test-clean test set.  Finally, we discuss the legal and ethical issues surrounding the creation of a sizable machine learning corpora and plans for continued maintenance of the project under MLCommons’s sponsorship.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=R8CwidgJ0yT&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://mlcommons.org/en/peoples-speech/" target="_blank" rel="nofollow noreferrer">https://mlcommons.org/en/peoples-speech/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://mlcommons.org/en/peoples-speech/" target="_blank" rel="nofollow noreferrer">https://mlcommons.org/en/peoples-speech/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">CC-BY-SA, with a CC-BY subset</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="8nvgnORnoWr" data-number="121">
+        <h4>
+          <a href="/forum?id=8nvgnORnoWr">
+              Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development
+          </a>
+
+
+            <a href="/pdf?id=8nvgnORnoWr" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Kexin_Huang1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Kexin_Huang1">Kexin Huang</a>, <a href="/profile?id=~Tianfan_Fu1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Tianfan_Fu1">Tianfan Fu</a>, <a href="/profile?id=~Wenhao_Gao1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Wenhao_Gao1">Wenhao Gao</a>, <a href="/profile?id=~Yue_Zhao13" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yue_Zhao13">Yue Zhao</a>, <a href="/profile?id=~Yusuf_H_Roohani1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yusuf_H_Roohani1">Yusuf H Roohani</a>, <a href="/profile?id=~Jure_Leskovec1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jure_Leskovec1">Jure Leskovec</a>, <a href="/profile?id=~Connor_W._Coley1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Connor_W._Coley1">Connor W. Coley</a>, <a href="/profile?id=~Cao_Xiao2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Cao_Xiao2">Cao Xiao</a>, <a href="/profile?id=~Jimeng_Sun3" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jimeng_Sun3">Jimeng Sun</a>, <a href="/profile?id=~Marinka_Zitnik1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Marinka_Zitnik1">Marinka Zitnik</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">13 Replies</span>
+
+
+        </div>
+
+          <a href="#8nvgnORnoWr-details-934" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="8nvgnORnoWr-details-934"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">drug discovery and development, representation learning, distribution shift, low-resource learning, datasets and benchmarks</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">Therapeutics Data Commons is a platform with AI-ready datasets and learning tasks for drug discovery and development. It provides an ecosystem of tools, libraries, leaderboards, and community resources for therapeutics machine learning.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Therapeutics machine learning is an emerging field with incredible opportunities for innovation and impact. However, advancement in this field requires the formulation of meaningful tasks and careful curation of datasets. Here, we introduce Therapeutics Data Commons (TDC), the first unifying platform to systematically access and evaluate machine learning across the entire range of therapeutics. To date, TDC includes 66 AI-ready datasets spread across 22 learning tasks and spanning the discovery and development of safe and effective medicines. TDC also provides an ecosystem of tools and community resources, including 33 data functions and diverse types of  data splits, 23 strategies for systematic model evaluation, 17 molecule generation oracles, and 29 public leaderboards. All resources are integrated and accessible via an open Python library. We carry out extensive experiments on selected datasets, demonstrating that even the strongest algorithms fall short of solving key therapeutics challenges, including distributional shifts, multi-scale and multi-modal learning, and robust generalization to novel data points. We envision that TDC can facilitate algorithmic advances and considerably accelerate machine-learning model development, validation and transition into biomedical and clinical implementation. TDC is available at https://tdcommons.ai. </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=8nvgnORnoWr&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://tdcommons.ai/" target="_blank" rel="nofollow noreferrer">https://tdcommons.ai/</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="8RxxwAut1BI" data-number="120">
+        <h4>
+          <a href="/forum?id=8RxxwAut1BI">
+              MLPerf Tiny Benchmark
+          </a>
+
+
+            <a href="/pdf?id=8RxxwAut1BI" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Colby_Banbury1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Colby_Banbury1">Colby Banbury</a>, <a href="/profile?id=~Vijay_Janapa_Reddi1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Vijay_Janapa_Reddi1">Vijay Janapa Reddi</a>, <a href="/profile?email=peter.torelli%40eembc.org" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="peter.torelli@eembc.org">Peter Torelli</a>, <a href="/profile?email=njeff%40google.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="njeff@google.com">Nat Jeffries</a>, <a href="/profile?email=csaba.kiraly%40digicatapult.org.uk" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="csaba.kiraly@digicatapult.org.uk">Csaba Kiraly</a>, <a href="/profile?id=~Jeremy_Holleman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Jeremy_Holleman1">Jeremy Holleman</a>, <a href="/profile?email=pietro.montino%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="pietro.montino@gmail.com">Pietro Montino</a>, <a href="/profile?id=~David_Kanter2" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~David_Kanter2">David Kanter</a>, <a href="/profile?id=~Pete_Warden1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Pete_Warden1">Pete Warden</a>, <a href="/profile?id=~Danilo_Pau1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Danilo_Pau1">Danilo Pau</a>, <a href="/profile?id=~Urmish_Thakker1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Urmish_Thakker1">Urmish Thakker</a>, <a href="/profile?email=antonio.torrini%40silabs.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="antonio.torrini@silabs.com">antonio torrini</a>, <a href="/profile?email=jay%40syntiant.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="jay@syntiant.com">jay cordaro</a>, <a href="/profile?id=~Giuseppe_Di_Guglielmo1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Giuseppe_Di_Guglielmo1">Giuseppe Di Guglielmo</a>, <a href="/profile?id=~Javier_Duarte1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Javier_Duarte1">Javier Duarte</a>, <a href="/profile?email=honson%40latentai.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="honson@latentai.com">Honson Tran</a>, <a href="/profile?id=~Nhan_Tran1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Nhan_Tran1">Nhan Tran</a>, <a href="/profile?email=wniu%40connect.ust.hk" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="wniu@connect.ust.hk">niu wenxu</a>, <a href="/profile?email=xuxs%40pcl.ac.cn" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="xuxs@pcl.ac.cn">xu xuesong</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 29 Dec 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">5 Replies</span>
+
+
+        </div>
+
+          <a href="#8RxxwAut1BI-details-254" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="8RxxwAut1BI-details-254"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">Machine learning, Benchmark, Embedded, IoT, Neural Network, Ultra-Low-Power</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">We present MLPerf Tiny, a suite of benchmarks for evaluating the energy, latency, and accuracy of TinyML hardware, models, and runtimes.  </span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Advancements in ultra-low-power tiny machine learning (TinyML) systems promise to unlock an entirely new class of smart applications. However, continued progress is limited by the lack of a widely accepted and easily reproducible benchmark for these systems. To meet this need, we present MLPerf Tiny, the first industry-standard benchmark suite for ultra-low-power tiny machine learning systems. The benchmark suite is the collaborative effort of more than 50 organizations from industry and academia and reflects the needs of the community. MLPerf Tiny measures the accuracy, latency, and energy of machine learning inference to properly evaluate the tradeoffs between systems. Additionally, MLPerf Tiny implements a modular design that enables benchmark submitters to show the benefits of their product, regardless of where it falls on the ML deployment stack, in a fair and reproducible manner. The suite features four benchmarks: keyword spotting, visual wake words, image classification, and anomaly detection.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://github.com/mlcommons/tiny" target="_blank" rel="nofollow noreferrer">https://github.com/mlcommons/tiny</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=8RxxwAut1BI&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="FkDZLpK1Ml2" data-number="116">
+        <h4>
+          <a href="/forum?id=FkDZLpK1Ml2">
+              ATOM3D: Tasks on Molecules in Three Dimensions
+          </a>
+
+
+            <a href="/pdf?id=FkDZLpK1Ml2" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Raphael_John_Lamarre_Townshend1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Raphael_John_Lamarre_Townshend1">Raphael John Lamarre Townshend</a>, <a href="/profile?id=~Martin_V%C3%B6gele1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Martin_Vögele1">Martin Vögele</a>, <a href="/profile?id=~Patricia_Adriana_Suriana1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Patricia_Adriana_Suriana1">Patricia Adriana Suriana</a>, <a href="/profile?id=~Alexander_Derry1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Alexander_Derry1">Alexander Derry</a>, <a href="/profile?email=lxpowers%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="lxpowers@stanford.edu">Alexander Powers</a>, <a href="/profile?email=jlalouda%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="jlalouda@stanford.edu">Yianni Laloudakis</a>, <a href="/profile?email=sidhikab%40stanford.edu" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="sidhikab@stanford.edu">Sidhika Balachandar</a>, <a href="/profile?id=~Bowen_Jing1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Bowen_Jing1">Bowen Jing</a>, <a href="/profile?id=~Brandon_M._Anderson1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Brandon_M._Anderson1">Brandon M. Anderson</a>, <a href="/profile?id=~Stephan_Eismann1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Stephan_Eismann1">Stephan Eismann</a>, <a href="/profile?id=~Risi_Kondor1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Risi_Kondor1">Risi Kondor</a>, <a href="/profile?id=~Russ_Altman1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Russ_Altman1">Russ Altman</a>, <a href="/profile?id=~Ron_O._Dror1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Ron_O._Dror1">Ron O. Dror</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 15 Jan 2022)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">8 Replies</span>
+
+
+        </div>
+
+          <a href="#FkDZLpK1Ml2-details-773" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="FkDZLpK1Ml2-details-773"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">machine learning, structural biology, biomolecules</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">ATOM3D is a collection of benchmark datasets for learning algorithms that work with 3D biomolecular structure.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Computational methods that operate on three-dimensional (3D) molecular structure have the potential to solve important problems in biology and chemistry. Deep neural networks have gained significant attention, but their widespread adoption in the biomolecular domain has been limited by a lack of either systematic performance benchmarks or a unified toolkit for interacting with 3D molecular data. To address this, we present ATOM3D, a collection of both novel and existing benchmark datasets spanning several key classes of biomolecules. We implement several types of 3D molecular learning methods for each of these tasks and show that they consistently improve performance relative to methods based on one- and two-dimensional representations. The choice of architecture proves to be important for performance, with 3D convolutional networks excelling at tasks involving complex geometries, graph networks performing well on systems requiring detailed positional information, and the more recently developed equivariant networks showing significant promise. Our results indicate that many molecular problems stand to gain from 3D molecular learning, and that there is potential for substantial further improvement on many tasks. To lower the barrier to entry and facilitate further developments in the field, we also provide a comprehensive suite of tools for dataset processing, model training, and evaluation in our open-source atom3d Python package. All datasets are available for download from www.atom3d.ai.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=FkDZLpK1Ml2&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value ">www.atom3d.ai</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Contribution Process Agreement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Dataset Url:</strong>
+              <span class="note-content-value "><a href="https://www.atom3d.ai/" target="_blank" rel="nofollow noreferrer">https://www.atom3d.ai/</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">License:</strong>
+              <span class="note-content-value ">The ATOM3D code is licensed under the MIT license.
+
+        The datasets are licensed under the following licenses:
+        SMP: Creative Commons CC-BY license.
+        PIP: Creative Commons CC-BY license.
+        RES: Creative Commons CC-BY license.
+        MSP: Creative Commons CC-BY license.
+        LBA: Creative Commons NonCommercial-NoDerivs (CC-BY-NC-ND) license.
+        LEP: Creative Commons CC-BY license.
+        PSR: Creative Commons CC-BY license.
+        RSR: Creative Commons Attribution-ShareAlike 3.0 Unported (CC-SA) license.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Author Statement:</strong>
+              <span class="note-content-value ">Yes</span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+    <li class="note " data-id="1xDTDk3XPW" data-number="114">
+        <h4>
+          <a href="/forum?id=1xDTDk3XPW">
+              A Large-Scale Database for Graph Representation Learning
+          </a>
+
+
+            <a href="/pdf?id=1xDTDk3XPW" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Scott_Freitas1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Scott_Freitas1">Scott Freitas</a>, <a href="/profile?id=~Yuxiao_Dong1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Yuxiao_Dong1">Yuxiao Dong</a>, <a href="/profile?email=joshua.charles.neil%40gmail.com" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="joshua.charles.neil@gmail.com">Joshua Neil</a>, <a href="/profile?id=~Duen_Horng_Chau1" class="profile-link" data-toggle="tooltip" data-placement="top" title="" data-original-title="~Duen_Horng_Chau1">Duen Horng Chau</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">07 Jun 2021 (modified: 06 Nov 2021)</span>
+              <span class="item">NeurIPS 2021 Datasets and Benchmarks Track (Round 1)</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">10 Replies</span>
+
+
+        </div>
+
+          <a href="#1xDTDk3XPW-details-105" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="1xDTDk3XPW-details-105"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Keywords:</strong>
+              <span class="note-content-value ">graph representation learning, graph classification, dataset, database, graphs</span>
+            </li>
+            <li>
+              <strong class="note-content-field">TL;DR:</strong>
+              <span class="note-content-value ">A large-scale graph representation learning database offering over 1.2 million graphs, averaging 15k nodes and 35k edges per graph</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">With the rapid emergence of graph representation learning, the construction of new large-scale datasets are necessary to distinguish model capabilities and accurately assess the strengths and weaknesses of each technique. By carefully analyzing existing graph databases, we identify 3 critical components important for advancing the field of graph representation learning: (1) large graphs, (2) many graphs, and (3) class diversity. To date, no single graph database offers all of these desired properties. We introduce MalNet , the largest public graph database ever constructed, representing a large-scale ontology of malicious software function call graphs. MalNet contains over 1.2 million graphs, averaging over 15k nodes and 35k edges per graph, across a hierarchy of 47 types and 696 families. Compared to the popular REDDIT-12K database, MalNet offers 105x more graphs, 44x larger graphs on average, and 63x more classes. We provide a detailed analysis of MalNet, discussing its properties and provenance, along with the evaluation of state-of-the-art machine learning and graph neural network techniques. The unprecedented scale and diversity of MalNet offers exciting opportunities to  advance the frontiers of graph representation learning--enabling new discoveries and research into imbalanced classification, explainability and the impact of class hardness. The database is publicly available at www.mal-net.org.</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=1xDTDk3XPW&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://mal-net.org/" target="_blank" rel="nofollow noreferrer">https://mal-net.org/</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+</ul>

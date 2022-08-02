@@ -1,0 +1,52 @@
+<ul class="list-unstyled submissions-list">
+    <li class="note " data-id="m5rEiGxOGiL" data-number="117">
+        <h4>
+          <a href="/forum?id=m5rEiGxOGiL">
+              Molecule3D: A Benchmark for Predicting 3D Geometries from Molecular Graphs
+          </a>
+
+
+            <a href="/pdf?id=m5rEiGxOGiL" class="pdf-link" title="Download PDF" target="_blank"><img src="/images/pdf_icon_blue.svg"></a>
+
+
+        </h4>
+
+
+
+        <div class="note-authors">
+          <a href="/profile?id=~Zhao_Xu3" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Zhao_Xu3">Zhao Xu</a>, <a href="/profile?id=~Youzhi_Luo1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Youzhi_Luo1">Youzhi Luo</a>, <a href="/profile?id=~Xuan_Zhang3" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Xuan_Zhang3">Xuan Zhang</a>, <a href="/profile?id=~Xinyi_Xu3" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Xinyi_Xu3">Xinyi Xu</a>, <a href="/profile?id=~Yaochen_Xie1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Yaochen_Xie1">Yaochen Xie</a>, <a href="/profile?id=~Meng_Liu3" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Meng_Liu3">Meng Liu</a>, <a href="/profile?id=~Kaleb_Andrew_Dickerson1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Kaleb_Andrew_Dickerson1">Kaleb Andrew Dickerson</a>, <a href="/profile?id=~Cheng_Deng2" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Cheng_Deng2">Cheng Deng</a>, <a href="/profile?id=~Maho_Nakata1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Maho_Nakata1">Maho Nakata</a>, <a href="/profile?id=~Shuiwang_Ji1" class="profile-link" data-toggle="tooltip" data-placement="top" title="~Shuiwang_Ji1">Shuiwang Ji</a>
+        </div>
+
+        <div class="note-meta-info">
+          <span class="item date">19 Aug 2021 (modified: 29 Sept 2021)</span>
+              <span class="item">NeurIPS 2021 Track Datasets and Benchmarks Round2 Submission</span>
+
+            <span class="item readers">Readers: <span class="readers-icon glyphicon glyphicon-globe"></span> Everyone</span>
+
+
+            <span class="item">32 Replies</span>
+
+
+        </div>
+
+          <a href="#m5rEiGxOGiL-details-430" class="note-contents-toggle" role="button" data-toggle="collapse" aria-expanded="false">Show details</a><div class="collapse" id="m5rEiGxOGiL-details-430"><div class="note-contents-collapse"><ul class="list-unstyled note-content">
+            <li>
+              <strong class="note-content-field">Abstract:</strong>
+              <span class="note-content-value ">Graph neural networks are emerging as promising methods for modeling molecular graphs, in which nodes and edges correspond to atoms and chemical bonds, respectively. Recent studies show that when 3D molecular geometries, such as bond lengths and angles, are available, molecular property prediction tasks can be made more accurate. However, computing of 3D molecular geometries requires quantum calculations that are computationally prohibitive. For example, accurate calculation of 3D geometries of a small molecule requires hours of computing time using density functional theory (DFT). Here, we propose to predict the ground-state 3D geometries from molecular graphs using machine learning methods. To make this feasible, we develop a benchmark, known as Molecule3D, that includes a dataset with precise ground-state geometries of approximately 4 million molecules derived from DFT. We also provide a set of software tools for data processing, splitting, training, and evaluation, etc. Specifically, we propose to assess the error and validity of predicted geometries using four metrics. We implement two baseline methods that either predict the pairwise distance between atoms or atom coordinates in 3D space. Experimental results show that, compared with generating 3D geometries with RDKit, our method can achieve comparable prediction accuracy but with much smaller computational costs. Our Molecule3D is available as a module of the MoleculeX software library (https://github.com/divelab/MoleculeX).</span>
+            </li>
+            <li>
+              <strong class="note-content-field">Supplementary Material:</strong>
+              <span class="note-content-value "><a href="/attachment?id=m5rEiGxOGiL&amp;name=supplementary_material" class="attachment-download-link" title="Download Supplementary Material" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> &nbsp;zip</a></span>
+            </li>
+            <li>
+              <strong class="note-content-field">URL:</strong>
+              <span class="note-content-value "><a href="https://drive.google.com/drive/u/2/folders/1y-EyoDYMvWZwClc2uvXrM4_hQBtM85BI" target="_blank" rel="nofollow noreferrer">https://drive.google.com/drive/u/2/folders/1y-EyoDYMvWZwClc2uvXrM4_hQBtM85BI</a></span>
+            </li>
+        </ul>
+        </div></div>
+
+
+
+
+    </li>
+</ul>
