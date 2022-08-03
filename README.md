@@ -6,7 +6,7 @@ We can also gain more insights from the rebuttal and see if it actually helps in
 
 **TLDR**: *We collected [review scores](https://docs.google.com/spreadsheets/d/1OhSK5jimCyPNtpOmO05vB547X6LhVmsklKgi3p_4WUc/edit?usp=sharing) of the Dataset and Benchmark track for NeurIPS which has just been organized since 2021.*
 
-If you are interested or have some ideas to improve this project, please feel free to reach out to me (Thang Pham) at [thangpham@auburn.edu](thangpham@auburn.edu).
+If you are interested or have some ideas to improve this project, please see the [open issues](https://github.com/ThangPM/openreview_stats/issues) for a full list of proposed features (and known issues) or feel free to reach out to me (Thang Pham) at [thangpham@auburn.edu](thangpham@auburn.edu).
 
 ### Prerequisites
 
