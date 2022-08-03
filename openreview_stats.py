@@ -46,7 +46,7 @@ if __name__ == '__main__':
             [print("Title:\t{0}\tURL:\t{1}\tReview_scores\t{2}\tAverage:\t{3}".format(*result)) for result in page_results]
 
         df = pd.DataFrame(results, columns=column_names)
-        df.sort_values(by=["Average"])
+        df = df.sort_values(by=["Average"], ascending=False)
         df["Rank"] = list(range(1, len(df) + 1))
         df.to_csv("results/{}.csv".format(conf))
 
